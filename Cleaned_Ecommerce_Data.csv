@@ -1,0 +1,918 @@
+Transaction_ID,Customer_Name,Customer_Email,Age,City,Category,Price,Quantity,Order_Date,Payment_Method,Order_Month,Order_Year,Total_Amount
+TXN-999,,,,Delhi,Electronics,,,1/15/2025,COD,1,2025,
+TXN-1001,Rahul Sharma,,,Mumbai,Electronics,,3,3/10/2025,,3,2025,
+TXN-1002,Rahul Sharma,,,Bengaluru,Books,1500,1,2/15/2025,UPI,2,2025,1500
+TXN-1003,,,35,Mumbai,Electronics,,2,2/15/2025,UPI,2,2025,
+TXN-1004,Anit Kumar,,29,Mumbai,Books,,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1005,Priya Singh,neha.v@gmail.com,28,Delhi,,150,1,1/15/2025,UPI,1,2025,150
+TXN-1006,Priya Singh,,29,Delhi,Clothing,,1,1/15/2025,COD,1,2025,
+TXN-1007,Priya Singh,,29,Bengaluru,Electronics,1500,5,,UPI,,,7500
+TXN-1008,,,,,Electronics,,2,,,,,
+TXN-1009,Rahul Sharma,priya.s@yahoo.com,,Bengaluru,Books,1500,,,COD,,,
+TXN-1010,,rahul@gmail.com,,Bengaluru,,,,1/15/2025,,1,2025,
+TXN-1011,,,24,Mumbai,Electronics,1500,2,2/15/2025,COD,2,2025,3000
+TXN-1013,Rahul Sharma,priya.s@yahoo.com,,,Clothing,1200.5,,3/10/2025,UPI,3,2025,
+TXN-1014,Neha Verma,,31,Kolkata,Electronics,,5,,,,,
+TXN-1015,Rahul Sharma,,28,Mumbai,Electronics,150,2,3/10/2025,UPI,3,2025,300
+TXN-1016,Rahul Sharma,,,Bengaluru,Clothing,,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1017,Rahul Sharma,neha.v@gmail.com,29,Mumbai,Electronics,,5,2/15/2025,CREDIT CARD,2,2025,
+TXN-1018,Rahul Sharma,,29,Delhi,Electronics,,2,4/20/2025,CREDIT CARD,4,2025,
+TXN-1019,Priya Singh,,22,Delhi,Electronics,,,3/10/2025,COD,3,2025,
+TXN-1020,Priya Singh,rahul@gmail.com,22,Bengaluru,Electronics,1200.5,5,,,,,6002.5
+TXN-1021,Neha Verma,,,Delhi,Electronics,150,,2/15/2025,COD,2,2025,
+TXN-1022,Neha Verma,,,Mumbai,Books,499,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1023,Rahul Sharma,priya.s@yahoo.com,28,Mumbai,Home & Kitchen,1500,5,1/15/2025,UPI,1,2025,7500
+TXN-1025,Priya Singh,priya.s@yahoo.com,28,Delhi,,350,,,CREDIT CARD,,,
+TXN-1026,,,24,Delhi,Books,1200.5,5,3/10/2025,CREDIT CARD,3,2025,6002.5
+TXN-1027,,,24,,Electronics,,,,COD,,,
+TXN-1028,,,31,Delhi,Electronics,,3,,COD,,,
+TXN-1029,Neha Verma,,,Mumbai,Books,,5,1/15/2025,COD,1,2025,
+TXN-1030,Rahul Sharma,,29,Delhi,Clothing,1200.5,,2/15/2025,COD,2,2025,
+TXN-1031,Priya Singh,neha.v@gmail.com,24,Bengaluru,,350,5,1/15/2025,UPI,1,2025,1750
+TXN-1032,Rahul Sharma,,31,,Books,,5,,COD,,,
+TXN-1033,Neha Verma,,22,Mumbai,Electronics,1500,,4/20/2025,,4,2025,
+TXN-1034,Anit Kumar,rahul@gmail.com,29,Mumbai,Electronics,,1,1/15/2025,COD,1,2025,
+TXN-1035,Vikas Gupta,,24,Delhi,Books,,2,1/15/2025,,1,2025,
+TXN-1037,Rahul Sharma,rahul@gmail.com,42,Bengaluru,Home & Kitchen,350,2,1/15/2025,CREDIT CARD,1,2025,700
+TXN-1038,Vikas Gupta,priya.s@yahoo.com,,Mumbai,Electronics,150,,1/15/2025,COD,1,2025,
+TXN-1039,Vikas Gupta,neha.v@gmail.com,24,Kolkata,Clothing,1200.5,,,COD,,,
+TXN-1040,Priya Singh,,29,Kolkata,Electronics,1500,,,CREDIT CARD,,,
+TXN-1041,,,31,Mumbai,Electronics,1500,3,2/15/2025,,2,2025,4500
+TXN-1042,Rahul Sharma,,35,Bengaluru,Electronics,499,5,4/20/2025,,4,2025,2495
+TXN-1043,Anit Kumar,priya.s@yahoo.com,22,Mumbai,Clothing,1500,2,,UPI,,,3000
+TXN-1044,Anit Kumar,neha.v@gmail.com,29,Mumbai,Clothing,150,,,UPI,,,
+TXN-1045,Priya Singh,,28,Bengaluru,Electronics,150,,4/20/2025,COD,4,2025,
+TXN-1046,Priya Singh,neha.v@gmail.com,,Bengaluru,Electronics,350,,4/20/2025,UPI,4,2025,
+TXN-1047,Vikas Gupta,neha.v@gmail.com,28,Bengaluru,Electronics,1500,3,4/20/2025,UPI,4,2025,4500
+TXN-1049,Rahul Sharma,,,Mumbai,Electronics,499,,,UPI,,,
+TXN-1050,Rahul Sharma,rahul@gmail.com,35,Bengaluru,Electronics,499,3,3/10/2025,CREDIT CARD,3,2025,1497
+TXN-1051,Rahul Sharma,rahul@gmail.com,22,,Electronics,1200.5,,3/10/2025,UPI,3,2025,
+TXN-1052,Rahul Sharma,,42,Delhi,Electronics,350,3,3/10/2025,UPI,3,2025,1050
+TXN-1053,Anit Kumar,priya.s@yahoo.com,29,Kolkata,Clothing,,,2/15/2025,UPI,2,2025,
+TXN-1054,Vikas Gupta,,29,Bengaluru,Home & Kitchen,350,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1055,Anit Kumar,neha.v@gmail.com,31,Kolkata,Electronics,350,5,4/20/2025,UPI,4,2025,1750
+TXN-1056,Neha Verma,priya.s@yahoo.com,31,Bengaluru,Clothing,,,,,,,
+TXN-1057,Anit Kumar,,24,Bengaluru,Electronics,,,1/15/2025,UPI,1,2025,
+TXN-1058,Vikas Gupta,neha.v@gmail.com,35,Mumbai,Electronics,350,5,,COD,,,1750
+TXN-1059,Rahul Sharma,,,Bengaluru,Electronics,,3,,UPI,,,
+TXN-1061,Rahul Sharma,,,Mumbai,Clothing,1500,2,1/15/2025,COD,1,2025,3000
+TXN-1062,Neha Verma,,,,Clothing,499,,4/20/2025,,4,2025,
+TXN-1063,Rahul Sharma,,,Mumbai,,499,,,UPI,,,
+TXN-1064,Rahul Sharma,,,Mumbai,Electronics,350,2,1/15/2025,CREDIT CARD,1,2025,700
+TXN-1065,Rahul Sharma,,,Bengaluru,Electronics,,,,COD,,,
+TXN-1066,Neha Verma,neha.v@gmail.com,24,Mumbai,Electronics,,,3/10/2025,,3,2025,
+TXN-1067,Anit Kumar,,22,,Electronics,,,4/20/2025,COD,4,2025,
+TXN-1068,Vikas Gupta,,,Delhi,Home & Kitchen,,5,4/20/2025,UPI,4,2025,
+TXN-1069,,,,Bengaluru,Home & Kitchen,,3,4/20/2025,COD,4,2025,
+TXN-1070,Neha Verma,neha.v@gmail.com,,Bengaluru,Electronics,,3,,CREDIT CARD,,,
+TXN-1071,Vikas Gupta,,28,Mumbai,Home & Kitchen,,,,COD,,,
+TXN-1073,Neha Verma,,28,Mumbai,Home & Kitchen,499,,2/15/2025,,2,2025,
+TXN-1074,Priya Singh,,31,Bengaluru,Home & Kitchen,,1,2/15/2025,,2,2025,
+TXN-1075,,priya.s@yahoo.com,,Mumbai,Home & Kitchen,1200.5,5,,UPI,,,6002.5
+TXN-1076,Rahul Sharma,rahul@gmail.com,,Kolkata,Clothing,,1,3/10/2025,CREDIT CARD,3,2025,
+TXN-1077,Rahul Sharma,neha.v@gmail.com,,Delhi,Books,1500,3,3/10/2025,UPI,3,2025,4500
+TXN-1078,,priya.s@yahoo.com,,,Home & Kitchen,350,,,UPI,,,
+TXN-1079,Priya Singh,,,Kolkata,Electronics,,1,2/15/2025,UPI,2,2025,
+TXN-1080,Vikas Gupta,rahul@gmail.com,24,Delhi,,350,,4/20/2025,UPI,4,2025,
+TXN-1081,Anit Kumar,neha.v@gmail.com,35,Mumbai,Home & Kitchen,150,2,4/20/2025,COD,4,2025,300
+TXN-1082,Rahul Sharma,,,Delhi,,1200.5,3,3/10/2025,,3,2025,3601.5
+TXN-1083,Vikas Gupta,neha.v@gmail.com,28,Bengaluru,,150,1,3/10/2025,CREDIT CARD,3,2025,150
+TXN-1085,Vikas Gupta,priya.s@yahoo.com,,Delhi,Electronics,499,2,,COD,,,998
+TXN-1086,Rahul Sharma,priya.s@yahoo.com,35,Delhi,,150,2,1/15/2025,CREDIT CARD,1,2025,300
+TXN-1087,Rahul Sharma,neha.v@gmail.com,,Mumbai,Electronics,150,,1/15/2025,,1,2025,
+TXN-1088,Anit Kumar,,,Mumbai,Electronics,,3,,,,,
+TXN-1089,Rahul Sharma,,,,Electronics,,1,1/15/2025,CREDIT CARD,1,2025,
+TXN-1090,,neha.v@gmail.com,,Mumbai,Home & Kitchen,499,,3/10/2025,COD,3,2025,
+TXN-1091,Vikas Gupta,,,Kolkata,Electronics,,,,COD,,,
+TXN-1092,Anit Kumar,,35,Bengaluru,,,5,,,,,
+TXN-1093,Priya Singh,,24,Delhi,,499,,2/15/2025,,2,2025,
+TXN-1094,Anit Kumar,,28,Mumbai,Electronics,150,3,3/10/2025,COD,3,2025,450
+TXN-1095,Anit Kumar,rahul@gmail.com,,Mumbai,Clothing,,,3/10/2025,COD,3,2025,
+TXN-1097,,,,,Clothing,150,,,COD,,,
+TXN-1098,Anit Kumar,priya.s@yahoo.com,,Mumbai,Clothing,,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1099,,,,Mumbai,Electronics,1500,,,COD,,,
+TXN-1100,,priya.s@yahoo.com,35,Bengaluru,Electronics,1200.5,2,1/15/2025,UPI,1,2025,2401
+TXN-1101,,,,Mumbai,Clothing,,1,,CREDIT CARD,,,
+TXN-1102,Rahul Sharma,rahul@gmail.com,,Kolkata,Electronics,350,1,4/20/2025,UPI,4,2025,350
+TXN-1103,Neha Verma,neha.v@gmail.com,31,Bengaluru,Home & Kitchen,,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1104,,,28,Bengaluru,Electronics,,3,3/10/2025,UPI,3,2025,
+TXN-1105,Priya Singh,priya.s@yahoo.com,,,Electronics,150,2,,COD,,,300
+TXN-1106,Neha Verma,,,Kolkata,Electronics,350,2,4/20/2025,CREDIT CARD,4,2025,700
+TXN-1107,,rahul@gmail.com,,Bengaluru,Books,350,3,1/15/2025,CREDIT CARD,1,2025,1050
+TXN-1109,Priya Singh,,,Kolkata,Clothing,,,,UPI,,,
+TXN-1110,Rahul Sharma,,22,,Books,150,2,,CREDIT CARD,,,300
+TXN-1111,Rahul Sharma,neha.v@gmail.com,,,Books,150,2,,CREDIT CARD,,,300
+TXN-1112,Anit Kumar,priya.s@yahoo.com,,Delhi,Home & Kitchen,,3,,COD,,,
+TXN-1113,,neha.v@gmail.com,35,,Electronics,,,,UPI,,,
+TXN-1114,,,42,Kolkata,Electronics,1500,3,2/15/2025,COD,2,2025,4500
+TXN-1115,Neha Verma,rahul@gmail.com,,Mumbai,Home & Kitchen,,1,,UPI,,,
+TXN-1116,Priya Singh,rahul@gmail.com,29,Kolkata,Electronics,,,2/15/2025,,2,2025,
+TXN-1117,,,42,Kolkata,Electronics,,,,COD,,,
+TXN-1118,Anit Kumar,,42,Bengaluru,Books,,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1119,Vikas Gupta,,35,Delhi,Home & Kitchen,,2,,UPI,,,
+TXN-1121,Vikas Gupta,,28,Mumbai,Electronics,499,1,1/15/2025,,1,2025,499
+TXN-1122,Rahul Sharma,,,Delhi,Electronics,1200.5,5,3/10/2025,,3,2025,6002.5
+TXN-1123,Priya Singh,priya.s@yahoo.com,28,Bengaluru,Clothing,499,3,2/15/2025,,2,2025,1497
+TXN-1124,Vikas Gupta,rahul@gmail.com,31,Bengaluru,Electronics,499,,4/20/2025,UPI,4,2025,
+TXN-1125,Rahul Sharma,,31,Bengaluru,Electronics,1200.5,,,UPI,,,
+TXN-1126,Vikas Gupta,,31,Mumbai,Home & Kitchen,350,2,,UPI,,,700
+TXN-1127,Anit Kumar,rahul@gmail.com,22,Mumbai,Electronics,150,,,UPI,,,
+TXN-1128,Rahul Sharma,rahul@gmail.com,,Kolkata,Books,350,,,UPI,,,
+TXN-1129,Anit Kumar,,,Mumbai,Electronics,,5,3/10/2025,CREDIT CARD,3,2025,
+TXN-1130,Rahul Sharma,,24,Bengaluru,Electronics,,5,,COD,,,
+TXN-1131,Priya Singh,rahul@gmail.com,35,Mumbai,Books,499,,4/20/2025,UPI,4,2025,
+TXN-1133,,neha.v@gmail.com,,Kolkata,Electronics,,1,2/15/2025,CREDIT CARD,2,2025,
+TXN-1134,Anit Kumar,neha.v@gmail.com,35,Bengaluru,Clothing,150,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1135,Priya Singh,rahul@gmail.com,35,,Clothing,,5,4/20/2025,UPI,4,2025,
+TXN-1136,,priya.s@yahoo.com,35,,Electronics,1500,3,1/15/2025,UPI,1,2025,4500
+TXN-1137,Rahul Sharma,priya.s@yahoo.com,24,,Electronics,499,1,4/20/2025,COD,4,2025,499
+TXN-1138,Rahul Sharma,,35,Mumbai,Electronics,150,5,4/20/2025,,4,2025,750
+TXN-1139,,,29,Kolkata,Home & Kitchen,499,,,UPI,,,
+TXN-1140,Rahul Sharma,rahul@gmail.com,22,Mumbai,Books,,,,,,,
+TXN-1141,Priya Singh,priya.s@yahoo.com,,Mumbai,Books,150,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1142,Anit Kumar,rahul@gmail.com,,,,,1,,CREDIT CARD,,,
+TXN-1143,Priya Singh,,,Mumbai,Home & Kitchen,1500,,,UPI,,,
+TXN-1145,,,29,Delhi,Electronics,1200.5,,3/10/2025,COD,3,2025,
+TXN-1146,Neha Verma,,24,Delhi,Clothing,,3,,COD,,,
+TXN-1147,Neha Verma,,,Delhi,Electronics,,3,1/15/2025,UPI,1,2025,
+TXN-1148,Anit Kumar,priya.s@yahoo.com,29,Delhi,Home & Kitchen,499,,,COD,,,
+TXN-1149,,,42,Bengaluru,Electronics,1200.5,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1150,Neha Verma,,31,Mumbai,Clothing,499,,3/10/2025,UPI,3,2025,
+TXN-1151,Rahul Sharma,,42,Mumbai,,350,,,UPI,,,
+TXN-1152,Neha Verma,,,Delhi,Electronics,350,1,1/15/2025,COD,1,2025,350
+TXN-1153,Rahul Sharma,,29,Mumbai,Electronics,1200.5,,,COD,,,
+TXN-1154,Anit Kumar,,42,Delhi,Books,,,1/15/2025,UPI,1,2025,
+TXN-1155,Priya Singh,,,Mumbai,Home & Kitchen,,2,4/20/2025,COD,4,2025,
+TXN-1157,Neha Verma,,24,Kolkata,Electronics,,5,,UPI,,,
+TXN-1158,Rahul Sharma,,29,Delhi,Electronics,,,3/10/2025,UPI,3,2025,
+TXN-1159,Rahul Sharma,rahul@gmail.com,29,,Electronics,,,,,,,
+TXN-1160,Vikas Gupta,,,,Electronics,,1,4/20/2025,COD,4,2025,
+TXN-1161,Rahul Sharma,neha.v@gmail.com,,Delhi,Electronics,,5,4/20/2025,COD,4,2025,
+TXN-1162,Vikas Gupta,rahul@gmail.com,31,Delhi,Clothing,1500,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1163,Rahul Sharma,priya.s@yahoo.com,31,Bengaluru,Electronics,150,5,1/15/2025,,1,2025,750
+TXN-1164,Priya Singh,neha.v@gmail.com,,Delhi,Home & Kitchen,1200.5,,2/15/2025,,2,2025,
+TXN-1165,,priya.s@yahoo.com,35,Delhi,,,1,2/15/2025,CREDIT CARD,2,2025,
+TXN-1166,Priya Singh,,42,Bengaluru,Electronics,1500,3,,COD,,,4500
+TXN-1167,Vikas Gupta,neha.v@gmail.com,24,Bengaluru,Clothing,,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1169,Rahul Sharma,priya.s@yahoo.com,,Bengaluru,Home & Kitchen,150,3,2/15/2025,,2,2025,450
+TXN-1170,Neha Verma,priya.s@yahoo.com,22,Mumbai,Home & Kitchen,,,4/20/2025,UPI,4,2025,
+TXN-1171,Rahul Sharma,priya.s@yahoo.com,,Delhi,Home & Kitchen,350,,2/15/2025,COD,2,2025,
+TXN-1172,Rahul Sharma,,29,Delhi,Electronics,1200.5,2,,,,,2401
+TXN-1173,Rahul Sharma,rahul@gmail.com,,Mumbai,Clothing,350,3,,COD,,,1050
+TXN-1174,Neha Verma,priya.s@yahoo.com,31,Mumbai,Electronics,,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1175,Rahul Sharma,rahul@gmail.com,28,Mumbai,Electronics,,5,,,,,
+TXN-1176,Neha Verma,,31,Bengaluru,Books,150,2,,UPI,,,300
+TXN-1177,Anit Kumar,,28,Kolkata,Home & Kitchen,,2,,,,,
+TXN-1178,Neha Verma,neha.v@gmail.com,,Bengaluru,Electronics,1500,1,,COD,,,1500
+TXN-1179,Vikas Gupta,,28,Bengaluru,Clothing,1500,5,2/15/2025,UPI,2,2025,7500
+TXN-1181,,,,Kolkata,Clothing,,,4/20/2025,,4,2025,
+TXN-1182,,rahul@gmail.com,29,Bengaluru,Electronics,,,3/10/2025,COD,3,2025,
+TXN-1183,Rahul Sharma,priya.s@yahoo.com,31,,Home & Kitchen,,,3/10/2025,UPI,3,2025,
+TXN-1184,,,35,Mumbai,Electronics,1200.5,,,CREDIT CARD,,,
+TXN-1185,Neha Verma,neha.v@gmail.com,,Mumbai,Clothing,1200.5,,4/20/2025,UPI,4,2025,
+TXN-1186,Vikas Gupta,,28,Bengaluru,Home & Kitchen,499,,3/10/2025,COD,3,2025,
+TXN-1187,Anit Kumar,neha.v@gmail.com,42,Delhi,Home & Kitchen,150,1,,COD,,,150
+TXN-1188,Vikas Gupta,,29,Delhi,Clothing,1200.5,2,4/20/2025,UPI,4,2025,2401
+TXN-1189,,rahul@gmail.com,,Delhi,Electronics,,,3/10/2025,COD,3,2025,
+TXN-1190,Anit Kumar,neha.v@gmail.com,22,Bengaluru,,,3,1/15/2025,CREDIT CARD,1,2025,
+TXN-1191,Rahul Sharma,priya.s@yahoo.com,,Bengaluru,Clothing,350,,,UPI,,,
+TXN-1193,Rahul Sharma,neha.v@gmail.com,,,Electronics,,2,,UPI,,,
+TXN-1194,Priya Singh,,31,Delhi,Electronics,350,2,,COD,,,700
+TXN-1195,Rahul Sharma,neha.v@gmail.com,,Delhi,,1200.5,3,,,,,3601.5
+TXN-1196,Rahul Sharma,priya.s@yahoo.com,42,Mumbai,Electronics,499,1,2/15/2025,UPI,2,2025,499
+TXN-1197,,,,Delhi,Electronics,150,,3/10/2025,COD,3,2025,
+TXN-1198,,rahul@gmail.com,28,,Electronics,1500,,1/15/2025,COD,1,2025,
+TXN-1199,Anit Kumar,,,Bengaluru,Electronics,,5,3/10/2025,UPI,3,2025,
+TXN-1200,Neha Verma,priya.s@yahoo.com,42,Kolkata,Electronics,150,1,,CREDIT CARD,,,150
+TXN-1201,Vikas Gupta,neha.v@gmail.com,22,Delhi,Clothing,1200.5,,1/15/2025,UPI,1,2025,
+TXN-1202,Priya Singh,priya.s@yahoo.com,,Delhi,,1200.5,,1/15/2025,UPI,1,2025,
+TXN-1203,Neha Verma,,28,Mumbai,Books,150,3,4/20/2025,UPI,4,2025,450
+TXN-1205,Vikas Gupta,rahul@gmail.com,,,,,,3/10/2025,COD,3,2025,
+TXN-1206,,rahul@gmail.com,35,Bengaluru,Books,1200.5,,1/15/2025,,1,2025,
+TXN-1207,Anit Kumar,priya.s@yahoo.com,35,Delhi,Electronics,,,3/10/2025,,3,2025,
+TXN-1208,Vikas Gupta,,22,Delhi,Books,,,1/15/2025,UPI,1,2025,
+TXN-1209,,,,Bengaluru,Electronics,350,5,2/15/2025,COD,2,2025,1750
+TXN-1210,Neha Verma,neha.v@gmail.com,29,Delhi,,350,2,,COD,,,700
+TXN-1211,Neha Verma,,35,Mumbai,Home & Kitchen,1500,,4/20/2025,UPI,4,2025,
+TXN-1212,Priya Singh,,29,Kolkata,,350,2,,COD,,,700
+TXN-1213,Priya Singh,,29,Delhi,Books,350,,,CREDIT CARD,,,
+TXN-1214,Anit Kumar,rahul@gmail.com,24,Mumbai,Home & Kitchen,,,4/20/2025,COD,4,2025,
+TXN-1215,Vikas Gupta,,22,Mumbai,Books,150,2,3/10/2025,COD,3,2025,300
+TXN-1217,Neha Verma,,22,Delhi,,1200.5,,,UPI,,,
+TXN-1218,Vikas Gupta,neha.v@gmail.com,,Bengaluru,Home & Kitchen,150,5,,,,,750
+TXN-1219,Neha Verma,,42,Mumbai,Books,1200.5,,,CREDIT CARD,,,
+TXN-1220,Rahul Sharma,,35,Mumbai,Electronics,150,2,,COD,,,300
+TXN-1221,Neha Verma,,31,Bengaluru,Home & Kitchen,1200.5,,,UPI,,,
+TXN-1222,Anit Kumar,,24,Kolkata,Clothing,,,2/15/2025,,2,2025,
+TXN-1223,Rahul Sharma,,31,Bengaluru,Electronics,1200.5,5,4/20/2025,COD,4,2025,6002.5
+TXN-1224,Rahul Sharma,,,Mumbai,Home & Kitchen,,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1225,Rahul Sharma,rahul@gmail.com,28,Delhi,,,2,,COD,,,
+TXN-1226,Anit Kumar,,,Kolkata,Electronics,1200.5,2,2/15/2025,CREDIT CARD,2,2025,2401
+TXN-1227,Vikas Gupta,rahul@gmail.com,42,Delhi,Electronics,,1,2/15/2025,UPI,2,2025,
+TXN-1229,Anit Kumar,neha.v@gmail.com,28,Bengaluru,Books,350,,,CREDIT CARD,,,
+TXN-1230,Priya Singh,,22,Mumbai,Books,350,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1231,Rahul Sharma,,42,Delhi,,150,3,,CREDIT CARD,,,450
+TXN-1232,Priya Singh,,,Kolkata,Books,1500,5,2/15/2025,COD,2,2025,7500
+TXN-1233,Neha Verma,rahul@gmail.com,,Bengaluru,Electronics,499,,3/10/2025,COD,3,2025,
+TXN-1234,Rahul Sharma,rahul@gmail.com,24,Kolkata,Books,,1,4/20/2025,UPI,4,2025,
+TXN-1235,Rahul Sharma,priya.s@yahoo.com,29,Delhi,Electronics,499,1,2/15/2025,UPI,2,2025,499
+TXN-1236,,neha.v@gmail.com,28,Bengaluru,Electronics,350,5,2/15/2025,,2,2025,1750
+TXN-1237,Rahul Sharma,,28,,,,,1/15/2025,COD,1,2025,
+TXN-1238,Vikas Gupta,,29,,Home & Kitchen,499,,1/15/2025,,1,2025,
+TXN-1239,Rahul Sharma,rahul@gmail.com,24,Mumbai,Electronics,,3,4/20/2025,COD,4,2025,
+TXN-1241,Neha Verma,,22,Bengaluru,Electronics,150,2,2/15/2025,CREDIT CARD,2,2025,300
+TXN-1242,Vikas Gupta,,,Bengaluru,,499,3,4/20/2025,UPI,4,2025,1497
+TXN-1243,Priya Singh,rahul@gmail.com,31,Mumbai,Electronics,1200.5,3,,,,,3601.5
+TXN-1244,Priya Singh,priya.s@yahoo.com,24,Bengaluru,Electronics,150,,4/20/2025,COD,4,2025,
+TXN-1245,,,42,Delhi,Electronics,150,5,,,,,750
+TXN-1246,Rahul Sharma,,35,Bengaluru,Home & Kitchen,350,1,2/15/2025,COD,2,2025,350
+TXN-1247,Neha Verma,neha.v@gmail.com,,Mumbai,Electronics,1200.5,,1/15/2025,UPI,1,2025,
+TXN-1248,Priya Singh,,,Delhi,Electronics,,3,2/15/2025,COD,2,2025,
+TXN-1249,Anit Kumar,,22,Delhi,Home & Kitchen,,2,4/20/2025,COD,4,2025,
+TXN-1250,Neha Verma,priya.s@yahoo.com,24,Bengaluru,Electronics,,3,,UPI,,,
+TXN-1251,Vikas Gupta,,,Mumbai,,,,,UPI,,,
+TXN-1253,Rahul Sharma,neha.v@gmail.com,24,Mumbai,Electronics,499,,,CREDIT CARD,,,
+TXN-1254,Priya Singh,,,Bengaluru,,499,,,COD,,,
+TXN-1255,Neha Verma,rahul@gmail.com,35,Kolkata,Books,499,,,COD,,,
+TXN-1256,Vikas Gupta,,,Kolkata,Clothing,,2,2/15/2025,CREDIT CARD,2,2025,
+TXN-1257,,,,Delhi,Clothing,,,,UPI,,,
+TXN-1258,,,28,Delhi,Electronics,,1,,COD,,,
+TXN-1259,Priya Singh,,31,Delhi,,1200.5,,,COD,,,
+TXN-1260,,,,Bengaluru,Electronics,499,2,,UPI,,,998
+TXN-1261,Anit Kumar,neha.v@gmail.com,28,,Electronics,150,2,,UPI,,,300
+TXN-1262,Rahul Sharma,rahul@gmail.com,31,Kolkata,Home & Kitchen,1500,5,,COD,,,7500
+TXN-1263,,priya.s@yahoo.com,31,Bengaluru,Books,1200.5,3,3/10/2025,,3,2025,3601.5
+TXN-1265,Anit Kumar,,31,Mumbai,Books,1200.5,,2/15/2025,COD,2,2025,
+TXN-1266,Rahul Sharma,neha.v@gmail.com,31,Delhi,Clothing,,5,,UPI,,,
+TXN-1267,Neha Verma,,22,Mumbai,,1200.5,,,COD,,,
+TXN-1268,Rahul Sharma,,,Bengaluru,Clothing,,1,1/15/2025,COD,1,2025,
+TXN-1269,Rahul Sharma,neha.v@gmail.com,29,,Books,1500,1,,,,,1500
+TXN-1270,Priya Singh,,22,Bengaluru,Home & Kitchen,,5,,COD,,,
+TXN-1271,Priya Singh,,,Delhi,,,1,4/20/2025,UPI,4,2025,
+TXN-1272,Rahul Sharma,rahul@gmail.com,,Delhi,Electronics,499,2,2/15/2025,UPI,2,2025,998
+TXN-1273,Anit Kumar,,,Delhi,,,,4/20/2025,UPI,4,2025,
+TXN-1274,Rahul Sharma,rahul@gmail.com,,Kolkata,Electronics,1200.5,2,,COD,,,2401
+TXN-1275,Neha Verma,,22,Delhi,Books,,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1277,Priya Singh,,28,Bengaluru,Books,,,,COD,,,
+TXN-1278,Neha Verma,rahul@gmail.com,,Delhi,,,3,,UPI,,,
+TXN-1279,Priya Singh,,42,Bengaluru,Home & Kitchen,1500,1,3/10/2025,CREDIT CARD,3,2025,1500
+TXN-1280,Rahul Sharma,,,Bengaluru,Electronics,1500,3,1/15/2025,COD,1,2025,4500
+TXN-1281,Rahul Sharma,rahul@gmail.com,,Bengaluru,Home & Kitchen,,5,1/15/2025,CREDIT CARD,1,2025,
+TXN-1282,,neha.v@gmail.com,28,Delhi,Electronics,,,,COD,,,
+TXN-1283,,,24,Mumbai,Electronics,499,1,,COD,,,499
+TXN-1284,Rahul Sharma,,,Mumbai,Books,,3,4/20/2025,,4,2025,
+TXN-1285,Priya Singh,,35,Bengaluru,Books,,,3/10/2025,COD,3,2025,
+TXN-1286,Rahul Sharma,rahul@gmail.com,22,Mumbai,Books,350,,1/15/2025,UPI,1,2025,
+TXN-1287,Rahul Sharma,priya.s@yahoo.com,,Mumbai,,499,1,,UPI,,,499
+TXN-1289,Anit Kumar,,,Bengaluru,Electronics,,2,4/20/2025,UPI,4,2025,
+TXN-1290,Rahul Sharma,,,Bengaluru,Books,,5,1/15/2025,CREDIT CARD,1,2025,
+TXN-1291,Neha Verma,,35,,,,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1292,Priya Singh,neha.v@gmail.com,,Mumbai,Electronics,350,2,4/20/2025,,4,2025,700
+TXN-1293,Anit Kumar,,29,Delhi,,,2,4/20/2025,,4,2025,
+TXN-1294,,rahul@gmail.com,29,Mumbai,Clothing,,,,COD,,,
+TXN-1295,Rahul Sharma,priya.s@yahoo.com,,Bengaluru,,499,,3/10/2025,UPI,3,2025,
+TXN-1296,Priya Singh,,35,Bengaluru,Books,,,,,,,
+TXN-1297,Neha Verma,,35,Bengaluru,Clothing,1500,3,,,,,4500
+TXN-1298,Priya Singh,priya.s@yahoo.com,28,Bengaluru,Home & Kitchen,1500,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1299,,,29,,Clothing,1500,,,COD,,,
+TXN-1301,Neha Verma,neha.v@gmail.com,,Kolkata,Electronics,,5,1/15/2025,COD,1,2025,
+TXN-1302,Rahul Sharma,,42,Bengaluru,Home & Kitchen,1500,2,2/15/2025,,2,2025,3000
+TXN-1303,Priya Singh,rahul@gmail.com,22,Mumbai,Books,1200.5,5,,,,,6002.5
+TXN-1304,Vikas Gupta,rahul@gmail.com,42,,Books,499,5,4/20/2025,UPI,4,2025,2495
+TXN-1305,Rahul Sharma,neha.v@gmail.com,22,Mumbai,Home & Kitchen,1200.5,5,4/20/2025,UPI,4,2025,6002.5
+TXN-1306,Vikas Gupta,,,,Electronics,,1,4/20/2025,UPI,4,2025,
+TXN-1307,Rahul Sharma,priya.s@yahoo.com,,Delhi,Electronics,499,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1308,Priya Singh,neha.v@gmail.com,31,Mumbai,Clothing,,,1/15/2025,COD,1,2025,
+TXN-1309,Rahul Sharma,priya.s@yahoo.com,,Bengaluru,Home & Kitchen,,5,4/20/2025,UPI,4,2025,
+TXN-1310,Rahul Sharma,,31,Delhi,Electronics,1200.5,,4/20/2025,COD,4,2025,
+TXN-1311,,,29,Bengaluru,Books,1200.5,1,,,,,1200.5
+TXN-1313,Anit Kumar,,22,Bengaluru,Electronics,150,2,3/10/2025,COD,3,2025,300
+TXN-1314,Rahul Sharma,,,Kolkata,Electronics,350,1,,COD,,,350
+TXN-1315,Rahul Sharma,rahul@gmail.com,42,,Home & Kitchen,,3,1/15/2025,COD,1,2025,
+TXN-1316,Rahul Sharma,priya.s@yahoo.com,,Kolkata,Electronics,150,2,3/10/2025,COD,3,2025,300
+TXN-1317,Vikas Gupta,rahul@gmail.com,,Bengaluru,Home & Kitchen,,,,CREDIT CARD,,,
+TXN-1318,,,22,Mumbai,Clothing,1500,5,1/15/2025,,1,2025,7500
+TXN-1319,Rahul Sharma,rahul@gmail.com,,Bengaluru,Electronics,499,,,,,,
+TXN-1320,,neha.v@gmail.com,,Kolkata,Electronics,,3,,COD,,,
+TXN-1321,,priya.s@yahoo.com,,Mumbai,Electronics,350,1,,,,,350
+TXN-1322,,,28,,Electronics,,,,UPI,,,
+TXN-1323,Rahul Sharma,neha.v@gmail.com,,Kolkata,Home & Kitchen,,5,,CREDIT CARD,,,
+TXN-1325,Rahul Sharma,,,Bengaluru,Clothing,1500,1,3/10/2025,,3,2025,1500
+TXN-1326,,neha.v@gmail.com,29,Kolkata,Electronics,1200.5,,,COD,,,
+TXN-1327,Anit Kumar,,,Bengaluru,Clothing,350,5,3/10/2025,UPI,3,2025,1750
+TXN-1328,Vikas Gupta,,,,,,3,3/10/2025,CREDIT CARD,3,2025,
+TXN-1329,Vikas Gupta,,35,Mumbai,,150,5,3/10/2025,UPI,3,2025,750
+TXN-1330,Rahul Sharma,,29,Kolkata,Clothing,,,2/15/2025,COD,2,2025,
+TXN-1331,Priya Singh,priya.s@yahoo.com,29,Bengaluru,Clothing,499,5,1/15/2025,UPI,1,2025,2495
+TXN-1332,Priya Singh,,,Bengaluru,Clothing,499,3,4/20/2025,UPI,4,2025,1497
+TXN-1333,Priya Singh,,31,Bengaluru,,1500,,,CREDIT CARD,,,
+TXN-1334,Neha Verma,priya.s@yahoo.com,,Kolkata,Home & Kitchen,499,1,4/20/2025,COD,4,2025,499
+TXN-1335,Rahul Sharma,,28,Delhi,,499,1,3/10/2025,,3,2025,499
+TXN-1337,Rahul Sharma,,28,Mumbai,Electronics,1500,,,CREDIT CARD,,,
+TXN-1338,Priya Singh,,,Delhi,Electronics,,5,3/10/2025,UPI,3,2025,
+TXN-1339,Anit Kumar,neha.v@gmail.com,24,,,150,,1/15/2025,UPI,1,2025,
+TXN-1340,Rahul Sharma,priya.s@yahoo.com,35,Mumbai,Electronics,,2,4/20/2025,CREDIT CARD,4,2025,
+TXN-1341,Priya Singh,rahul@gmail.com,31,,Electronics,1500,,,CREDIT CARD,,,
+TXN-1342,Vikas Gupta,,,Bengaluru,Clothing,,,,COD,,,
+TXN-1343,Rahul Sharma,,,Delhi,Electronics,1200.5,5,2/15/2025,,2,2025,6002.5
+TXN-1344,Rahul Sharma,,28,Bengaluru,Home & Kitchen,,1,,CREDIT CARD,,,
+TXN-1345,Vikas Gupta,,28,,,,3,1/15/2025,UPI,1,2025,
+TXN-1346,Vikas Gupta,,,Mumbai,,,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1347,Vikas Gupta,rahul@gmail.com,,Bengaluru,Clothing,150,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1349,Rahul Sharma,neha.v@gmail.com,,Bengaluru,Electronics,,,,,,,
+TXN-1350,Rahul Sharma,,29,Mumbai,Home & Kitchen,350,1,1/15/2025,UPI,1,2025,350
+TXN-1351,,,24,Bengaluru,Books,1500,2,3/10/2025,COD,3,2025,3000
+TXN-1352,Neha Verma,,,Bengaluru,Electronics,1500,2,,UPI,,,3000
+TXN-1353,Vikas Gupta,neha.v@gmail.com,35,Delhi,Electronics,150,,1/15/2025,,1,2025,
+TXN-1354,Rahul Sharma,,29,,Electronics,150,,2/15/2025,UPI,2,2025,
+TXN-1355,Rahul Sharma,priya.s@yahoo.com,,,Home & Kitchen,,,,UPI,,,
+TXN-1356,Vikas Gupta,,29,Bengaluru,Electronics,1200.5,5,1/15/2025,COD,1,2025,6002.5
+TXN-1357,Vikas Gupta,,22,Bengaluru,,,1,3/10/2025,UPI,3,2025,
+TXN-1358,Priya Singh,,,Delhi,Home & Kitchen,,1,3/10/2025,COD,3,2025,
+TXN-1359,Priya Singh,,24,Kolkata,Electronics,499,2,2/15/2025,CREDIT CARD,2,2025,998
+TXN-1361,Rahul Sharma,,,Delhi,,350,3,3/10/2025,,3,2025,1050
+TXN-1362,Rahul Sharma,,,Mumbai,Books,,3,3/10/2025,CREDIT CARD,3,2025,
+TXN-1363,Priya Singh,,22,Kolkata,,1200.5,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1364,Vikas Gupta,,28,Mumbai,Clothing,,,1/15/2025,,1,2025,
+TXN-1365,Rahul Sharma,,,Delhi,,350,5,4/20/2025,,4,2025,1750
+TXN-1366,Rahul Sharma,priya.s@yahoo.com,,Bengaluru,Electronics,,2,1/15/2025,,1,2025,
+TXN-1367,Priya Singh,neha.v@gmail.com,,Kolkata,Books,350,1,,CREDIT CARD,,,350
+TXN-1368,Rahul Sharma,priya.s@yahoo.com,,Bengaluru,,,3,2/15/2025,UPI,2,2025,
+TXN-1369,Rahul Sharma,,31,Delhi,Electronics,,5,,COD,,,
+TXN-1370,Rahul Sharma,,,Delhi,Electronics,1500,3,4/20/2025,COD,4,2025,4500
+TXN-1371,Anit Kumar,priya.s@yahoo.com,35,Delhi,Clothing,1500,3,2/15/2025,CREDIT CARD,2,2025,4500
+TXN-1373,Vikas Gupta,rahul@gmail.com,35,Mumbai,Books,499,3,,UPI,,,1497
+TXN-1374,Rahul Sharma,,24,Mumbai,Home & Kitchen,1500,2,3/10/2025,UPI,3,2025,3000
+TXN-1375,Anit Kumar,neha.v@gmail.com,,,Electronics,499,,2/15/2025,COD,2,2025,
+TXN-1376,Rahul Sharma,,29,Kolkata,,,3,3/10/2025,CREDIT CARD,3,2025,
+TXN-1377,,neha.v@gmail.com,22,Bengaluru,,1200.5,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1378,,,35,,Books,,1,2/15/2025,COD,2,2025,
+TXN-1379,Vikas Gupta,,28,Mumbai,Books,,5,,COD,,,
+TXN-1380,Neha Verma,neha.v@gmail.com,42,Kolkata,Electronics,499,3,2/15/2025,CREDIT CARD,2,2025,1497
+TXN-1381,,neha.v@gmail.com,,Delhi,Electronics,499,,,UPI,,,
+TXN-1382,,priya.s@yahoo.com,,,Electronics,499,,1/15/2025,UPI,1,2025,
+TXN-1383,Rahul Sharma,,,Delhi,,,1,3/10/2025,UPI,3,2025,
+TXN-1385,Priya Singh,priya.s@yahoo.com,24,Bengaluru,,,3,2/15/2025,COD,2,2025,
+TXN-1386,Anit Kumar,,22,Delhi,Electronics,350,2,,UPI,,,700
+TXN-1387,Priya Singh,,24,Delhi,Electronics,,2,2/15/2025,UPI,2,2025,
+TXN-1388,Rahul Sharma,,35,Mumbai,Electronics,1200.5,3,,COD,,,3601.5
+TXN-1389,Neha Verma,rahul@gmail.com,,Kolkata,Home & Kitchen,1500,,,COD,,,
+TXN-1390,,,29,Bengaluru,Electronics,1500,5,,,,,7500
+TXN-1391,Neha Verma,rahul@gmail.com,,Kolkata,Clothing,1500,2,2/15/2025,COD,2,2025,3000
+TXN-1392,Rahul Sharma,,,,Electronics,,1,4/20/2025,COD,4,2025,
+TXN-1393,,,29,Mumbai,Electronics,499,5,,,,,2495
+TXN-1394,Anit Kumar,rahul@gmail.com,28,,Clothing,350,,4/20/2025,COD,4,2025,
+TXN-1395,Rahul Sharma,neha.v@gmail.com,24,Kolkata,Clothing,150,,4/20/2025,,4,2025,
+TXN-1397,Neha Verma,,31,Delhi,Home & Kitchen,150,,2/15/2025,COD,2,2025,
+TXN-1398,Rahul Sharma,neha.v@gmail.com,,,Books,499,,,COD,,,
+TXN-1399,Neha Verma,priya.s@yahoo.com,,,Home & Kitchen,499,5,4/20/2025,UPI,4,2025,2495
+TXN-1400,Vikas Gupta,rahul@gmail.com,,Kolkata,Electronics,499,5,3/10/2025,UPI,3,2025,2495
+TXN-1401,Neha Verma,,,Delhi,Electronics,150,2,1/15/2025,UPI,1,2025,300
+TXN-1402,Priya Singh,,,Bengaluru,Electronics,499,,4/20/2025,UPI,4,2025,
+TXN-1403,Rahul Sharma,,42,Delhi,Electronics,150,2,3/10/2025,COD,3,2025,300
+TXN-1404,Neha Verma,,28,Delhi,Electronics,499,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1405,Rahul Sharma,neha.v@gmail.com,22,Delhi,Clothing,,2,1/15/2025,CREDIT CARD,1,2025,
+TXN-1406,Vikas Gupta,,35,Kolkata,Home & Kitchen,499,,2/15/2025,,2,2025,
+TXN-1407,Priya Singh,neha.v@gmail.com,29,Delhi,Books,350,3,,CREDIT CARD,,,1050
+TXN-1409,Neha Verma,,,Mumbai,Electronics,,3,,COD,,,
+TXN-1410,Rahul Sharma,neha.v@gmail.com,31,Mumbai,,1200.5,,3/10/2025,COD,3,2025,
+TXN-1411,,,28,Mumbai,Home & Kitchen,,,,COD,,,
+TXN-1412,Vikas Gupta,,,Kolkata,Books,1500,2,4/20/2025,CREDIT CARD,4,2025,3000
+TXN-1413,Priya Singh,,,Bengaluru,Books,1500,2,,UPI,,,3000
+TXN-1414,Rahul Sharma,neha.v@gmail.com,29,,Clothing,1500,5,2/15/2025,,2,2025,7500
+TXN-1415,Rahul Sharma,neha.v@gmail.com,42,Mumbai,Clothing,499,2,,CREDIT CARD,,,998
+TXN-1416,Neha Verma,,24,Bengaluru,Electronics,,,4/20/2025,UPI,4,2025,
+TXN-1417,Priya Singh,,,Mumbai,,350,,4/20/2025,,4,2025,
+TXN-1418,Neha Verma,rahul@gmail.com,29,Mumbai,Clothing,499,5,,UPI,,,2495
+TXN-1419,Neha Verma,,42,Bengaluru,Electronics,499,,,UPI,,,
+TXN-1421,Neha Verma,priya.s@yahoo.com,35,Delhi,Electronics,499,,2/15/2025,,2,2025,
+TXN-1422,Rahul Sharma,neha.v@gmail.com,28,Mumbai,Electronics,,2,,UPI,,,
+TXN-1423,Rahul Sharma,neha.v@gmail.com,29,,Clothing,1500,3,,,,,4500
+TXN-1424,,,35,Bengaluru,Electronics,1200.5,5,1/15/2025,UPI,1,2025,6002.5
+TXN-1425,Neha Verma,priya.s@yahoo.com,29,Bengaluru,Home & Kitchen,,5,3/10/2025,CREDIT CARD,3,2025,
+TXN-1426,Neha Verma,neha.v@gmail.com,28,Delhi,Electronics,350,,,UPI,,,
+TXN-1427,Neha Verma,rahul@gmail.com,,Mumbai,Electronics,350,2,,UPI,,,700
+TXN-1428,Anit Kumar,,,Mumbai,,499,,4/20/2025,UPI,4,2025,
+TXN-1429,Anit Kumar,rahul@gmail.com,,Bengaluru,Books,1200.5,,3/10/2025,UPI,3,2025,
+TXN-1430,Priya Singh,neha.v@gmail.com,,Delhi,,150,2,,COD,,,300
+TXN-1431,,neha.v@gmail.com,28,Delhi,Electronics,,5,4/20/2025,,4,2025,
+TXN-1433,Anit Kumar,,31,Kolkata,Electronics,499,2,1/15/2025,UPI,1,2025,998
+TXN-1434,Priya Singh,priya.s@yahoo.com,,Kolkata,Electronics,1200.5,3,,UPI,,,3601.5
+TXN-1435,Anit Kumar,neha.v@gmail.com,,Mumbai,Electronics,499,1,4/20/2025,COD,4,2025,499
+TXN-1436,Rahul Sharma,,35,,Electronics,1500,,3/10/2025,COD,3,2025,
+TXN-1437,Priya Singh,rahul@gmail.com,,Delhi,Electronics,150,,,UPI,,,
+TXN-1438,,rahul@gmail.com,35,Bengaluru,Clothing,1200.5,5,,UPI,,,6002.5
+TXN-1439,,,,,Electronics,1200.5,1,4/20/2025,UPI,4,2025,1200.5
+TXN-1440,Anit Kumar,rahul@gmail.com,31,Kolkata,Home & Kitchen,1500,2,3/10/2025,UPI,3,2025,3000
+TXN-1441,Rahul Sharma,,42,Bengaluru,Books,499,3,3/10/2025,,3,2025,1497
+TXN-1442,Anit Kumar,,28,Bengaluru,Electronics,150,,3/10/2025,COD,3,2025,
+TXN-1443,Vikas Gupta,,42,Delhi,,350,2,3/10/2025,COD,3,2025,700
+TXN-1445,Rahul Sharma,priya.s@yahoo.com,42,Kolkata,,,1,3/10/2025,COD,3,2025,
+TXN-1446,Rahul Sharma,priya.s@yahoo.com,29,,Electronics,150,,4/20/2025,UPI,4,2025,
+TXN-1447,Neha Verma,,22,Mumbai,Electronics,350,3,,CREDIT CARD,,,1050
+TXN-1448,Neha Verma,,,Bengaluru,Home & Kitchen,,,,UPI,,,
+TXN-1449,Rahul Sharma,,31,Delhi,Electronics,1500,,,UPI,,,
+TXN-1450,Rahul Sharma,neha.v@gmail.com,24,Mumbai,Electronics,350,3,4/20/2025,CREDIT CARD,4,2025,1050
+TXN-1451,Neha Verma,priya.s@yahoo.com,,Kolkata,Electronics,,,4/20/2025,,4,2025,
+TXN-1452,Priya Singh,priya.s@yahoo.com,29,Delhi,Books,1200.5,5,2/15/2025,UPI,2,2025,6002.5
+TXN-1453,Neha Verma,priya.s@yahoo.com,31,Mumbai,,350,,4/20/2025,UPI,4,2025,
+TXN-1454,Anit Kumar,rahul@gmail.com,35,Bengaluru,Electronics,499,5,4/20/2025,UPI,4,2025,2495
+TXN-1455,Priya Singh,,24,Delhi,Electronics,,5,,COD,,,
+TXN-1457,Rahul Sharma,,28,Kolkata,Books,,2,,COD,,,
+TXN-1458,Priya Singh,neha.v@gmail.com,,Mumbai,,1200.5,,3/10/2025,UPI,3,2025,
+TXN-1459,Anit Kumar,priya.s@yahoo.com,,Bengaluru,Clothing,,2,4/20/2025,UPI,4,2025,
+TXN-1460,Anit Kumar,,29,Bengaluru,Electronics,350,1,4/20/2025,,4,2025,350
+TXN-1461,Priya Singh,,31,Mumbai,Electronics,,2,2/15/2025,CREDIT CARD,2,2025,
+TXN-1462,Rahul Sharma,priya.s@yahoo.com,,Bengaluru,Electronics,,2,3/10/2025,UPI,3,2025,
+TXN-1463,Vikas Gupta,priya.s@yahoo.com,,Bengaluru,Clothing,150,1,,UPI,,,150
+TXN-1464,Neha Verma,,24,Mumbai,Home & Kitchen,150,,1/15/2025,UPI,1,2025,
+TXN-1465,,neha.v@gmail.com,28,,Home & Kitchen,1200.5,,4/20/2025,,4,2025,
+TXN-1466,Anit Kumar,,35,Mumbai,,150,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1467,Neha Verma,,,Mumbai,Clothing,350,3,1/15/2025,COD,1,2025,1050
+TXN-1469,,neha.v@gmail.com,28,Bengaluru,Clothing,,,,CREDIT CARD,,,
+TXN-1470,Neha Verma,rahul@gmail.com,29,Mumbai,Electronics,350,,1/15/2025,UPI,1,2025,
+TXN-1471,Rahul Sharma,,29,Mumbai,Home & Kitchen,,2,,COD,,,
+TXN-1472,,,,Kolkata,Clothing,1200.5,,1/15/2025,,1,2025,
+TXN-1473,Vikas Gupta,neha.v@gmail.com,31,,Electronics,499,2,4/20/2025,COD,4,2025,998
+TXN-1474,Neha Verma,,,Delhi,Books,350,2,,UPI,,,700
+TXN-1475,Anit Kumar,priya.s@yahoo.com,35,Kolkata,,,5,3/10/2025,COD,3,2025,
+TXN-1476,,rahul@gmail.com,31,Delhi,Books,,1,2/15/2025,COD,2,2025,
+TXN-1477,Rahul Sharma,,,,Home & Kitchen,350,3,4/20/2025,UPI,4,2025,1050
+TXN-1478,Priya Singh,,24,Mumbai,Books,,1,3/10/2025,UPI,3,2025,
+TXN-1479,Anit Kumar,,35,Mumbai,Electronics,,5,3/10/2025,COD,3,2025,
+TXN-1481,Rahul Sharma,neha.v@gmail.com,,,Books,,,1/15/2025,COD,1,2025,
+TXN-1482,,,31,Bengaluru,Electronics,350,2,1/15/2025,UPI,1,2025,700
+TXN-1483,Neha Verma,neha.v@gmail.com,22,,,1500,,,,,,
+TXN-1484,Priya Singh,,28,Bengaluru,,499,,1/15/2025,UPI,1,2025,
+TXN-1485,Anit Kumar,,31,,Clothing,,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1486,Anit Kumar,,35,,Books,1500,,,UPI,,,
+TXN-1487,Neha Verma,priya.s@yahoo.com,,Mumbai,Electronics,,5,4/20/2025,COD,4,2025,
+TXN-1488,Priya Singh,,35,Delhi,Books,,5,2/15/2025,UPI,2,2025,
+TXN-1489,,,35,Delhi,Books,,3,,,,,
+TXN-1490,Anit Kumar,rahul@gmail.com,,Mumbai,Clothing,350,2,4/20/2025,UPI,4,2025,700
+TXN-1491,Priya Singh,priya.s@yahoo.com,42,Bengaluru,Clothing,499,,1/15/2025,UPI,1,2025,
+TXN-1493,,,31,Bengaluru,Electronics,,,1/15/2025,,1,2025,
+TXN-1494,Vikas Gupta,,,Mumbai,Home & Kitchen,1500,,1/15/2025,COD,1,2025,
+TXN-1495,Anit Kumar,,28,Bengaluru,Electronics,499,2,,CREDIT CARD,,,998
+TXN-1496,Neha Verma,,,Mumbai,Clothing,1200.5,2,2/15/2025,,2,2025,2401
+TXN-1497,Rahul Sharma,neha.v@gmail.com,42,,Clothing,,2,,COD,,,
+TXN-1498,Anit Kumar,,,,Electronics,350,2,4/20/2025,UPI,4,2025,700
+TXN-1499,Vikas Gupta,rahul@gmail.com,31,Delhi,Clothing,,1,4/20/2025,COD,4,2025,
+TXN-1500,Rahul Sharma,neha.v@gmail.com,,Delhi,,150,,,,,,
+TXN-1501,Rahul Sharma,,35,Bengaluru,Clothing,499,,2/15/2025,UPI,2,2025,
+TXN-1502,,,,Kolkata,Clothing,350,1,1/15/2025,UPI,1,2025,350
+TXN-1503,Rahul Sharma,rahul@gmail.com,,Delhi,Electronics,150,3,4/20/2025,CREDIT CARD,4,2025,450
+TXN-1505,Anit Kumar,neha.v@gmail.com,31,Mumbai,Electronics,499,2,3/10/2025,COD,3,2025,998
+TXN-1506,Rahul Sharma,neha.v@gmail.com,28,Bengaluru,Clothing,1500,5,3/10/2025,UPI,3,2025,7500
+TXN-1507,Rahul Sharma,rahul@gmail.com,31,Delhi,Electronics,350,5,,COD,,,1750
+TXN-1508,Anit Kumar,,,Mumbai,Electronics,1200.5,2,4/20/2025,UPI,4,2025,2401
+TXN-1509,Vikas Gupta,neha.v@gmail.com,35,Bengaluru,Books,1200.5,,1/15/2025,COD,1,2025,
+TXN-1510,Priya Singh,,24,Delhi,,,2,4/20/2025,UPI,4,2025,
+TXN-1511,,,24,,Electronics,,1,,CREDIT CARD,,,
+TXN-1512,Anit Kumar,priya.s@yahoo.com,35,Bengaluru,Electronics,,2,3/10/2025,UPI,3,2025,
+TXN-1513,Priya Singh,,35,Kolkata,,1200.5,,,COD,,,
+TXN-1514,,,,Delhi,,150,,4/20/2025,UPI,4,2025,
+TXN-1515,Rahul Sharma,priya.s@yahoo.com,24,,,350,,4/20/2025,COD,4,2025,
+TXN-1517,,priya.s@yahoo.com,,Mumbai,Books,,5,3/10/2025,COD,3,2025,
+TXN-1518,Rahul Sharma,,24,Mumbai,Home & Kitchen,150,3,2/15/2025,CREDIT CARD,2,2025,450
+TXN-1519,Neha Verma,,22,Kolkata,Electronics,499,,1/15/2025,,1,2025,
+TXN-1520,Rahul Sharma,neha.v@gmail.com,22,Bengaluru,Clothing,1500,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1521,Rahul Sharma,neha.v@gmail.com,28,Mumbai,Electronics,1500,2,1/15/2025,COD,1,2025,3000
+TXN-1522,Rahul Sharma,neha.v@gmail.com,22,Mumbai,Electronics,150,,,,,,
+TXN-1523,,neha.v@gmail.com,,Mumbai,Electronics,,,,UPI,,,
+TXN-1524,Priya Singh,priya.s@yahoo.com,24,Mumbai,Electronics,,,3/10/2025,UPI,3,2025,
+TXN-1525,Neha Verma,neha.v@gmail.com,,Delhi,Electronics,,1,1/15/2025,CREDIT CARD,1,2025,
+TXN-1526,Rahul Sharma,rahul@gmail.com,,Kolkata,Home & Kitchen,150,,3/10/2025,COD,3,2025,
+TXN-1527,Vikas Gupta,neha.v@gmail.com,42,Bengaluru,Clothing,,5,3/10/2025,UPI,3,2025,
+TXN-1529,Neha Verma,rahul@gmail.com,,Kolkata,Home & Kitchen,150,,,CREDIT CARD,,,
+TXN-1530,Neha Verma,,24,Bengaluru,Home & Kitchen,,5,1/15/2025,COD,1,2025,
+TXN-1531,Priya Singh,,,Bengaluru,Home & Kitchen,,3,,COD,,,
+TXN-1532,Rahul Sharma,rahul@gmail.com,22,Bengaluru,Electronics,150,,2/15/2025,,2,2025,
+TXN-1533,Priya Singh,,29,Delhi,Electronics,499,,,CREDIT CARD,,,
+TXN-1534,Rahul Sharma,,,Mumbai,Books,1200.5,5,,,,,6002.5
+TXN-1535,Anit Kumar,neha.v@gmail.com,31,Bengaluru,Electronics,,,2/15/2025,COD,2,2025,
+TXN-1536,Anit Kumar,priya.s@yahoo.com,,Delhi,Books,350,,4/20/2025,UPI,4,2025,
+TXN-1537,Vikas Gupta,rahul@gmail.com,,Bengaluru,,,,,COD,,,
+TXN-1538,Vikas Gupta,,,Mumbai,Electronics,350,,1/15/2025,COD,1,2025,
+TXN-1539,Rahul Sharma,,29,Mumbai,Clothing,350,5,2/15/2025,CREDIT CARD,2,2025,1750
+TXN-1541,Priya Singh,,,Mumbai,Electronics,150,,,UPI,,,
+TXN-1542,,priya.s@yahoo.com,,Kolkata,Electronics,1200.5,1,2/15/2025,UPI,2,2025,1200.5
+TXN-1543,Priya Singh,priya.s@yahoo.com,,Mumbai,Electronics,1200.5,,,COD,,,
+TXN-1544,,priya.s@yahoo.com,29,Bengaluru,Books,,1,4/20/2025,,4,2025,
+TXN-1545,Rahul Sharma,,28,,Electronics,,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1546,Anit Kumar,,22,Mumbai,,,,,UPI,,,
+TXN-1547,Vikas Gupta,,35,Bengaluru,Home & Kitchen,,,4/20/2025,UPI,4,2025,
+TXN-1548,Neha Verma,,29,Bengaluru,Electronics,,1,3/10/2025,,3,2025,
+TXN-1549,Vikas Gupta,,,Bengaluru,Clothing,,2,1/15/2025,COD,1,2025,
+TXN-1550,Rahul Sharma,priya.s@yahoo.com,29,,Books,1500,,1/15/2025,,1,2025,
+TXN-1551,Neha Verma,,29,Delhi,Clothing,350,,1/15/2025,UPI,1,2025,
+TXN-1553,Priya Singh,,,Bengaluru,Electronics,,5,,COD,,,
+TXN-1554,Priya Singh,neha.v@gmail.com,24,Bengaluru,,499,1,4/20/2025,COD,4,2025,499
+TXN-1555,Vikas Gupta,,35,Kolkata,Electronics,350,,3/10/2025,,3,2025,
+TXN-1556,Priya Singh,rahul@gmail.com,,,Books,1200.5,,,,,,
+TXN-1557,Vikas Gupta,,,,Electronics,1200.5,,1/15/2025,UPI,1,2025,
+TXN-1558,Vikas Gupta,rahul@gmail.com,,Kolkata,Clothing,,,,UPI,,,
+TXN-1559,Priya Singh,priya.s@yahoo.com,,Delhi,Electronics,,5,2/15/2025,UPI,2,2025,
+TXN-1560,Rahul Sharma,priya.s@yahoo.com,35,Delhi,Home & Kitchen,1200.5,1,4/20/2025,COD,4,2025,1200.5
+TXN-1561,Rahul Sharma,neha.v@gmail.com,,,Electronics,,2,4/20/2025,COD,4,2025,
+TXN-1562,Priya Singh,neha.v@gmail.com,31,Kolkata,Electronics,,3,1/15/2025,,1,2025,
+TXN-1563,,neha.v@gmail.com,31,Delhi,Clothing,1500,,1/15/2025,COD,1,2025,
+TXN-1565,Vikas Gupta,,,Mumbai,,1500,3,,,,,4500
+TXN-1566,Rahul Sharma,,42,Bengaluru,Books,,,3/10/2025,UPI,3,2025,
+TXN-1567,Vikas Gupta,rahul@gmail.com,29,Mumbai,,,,2/15/2025,UPI,2,2025,
+TXN-1568,,,28,,Electronics,1500,3,4/20/2025,CREDIT CARD,4,2025,4500
+TXN-1569,Vikas Gupta,rahul@gmail.com,,Bengaluru,Electronics,1500,,3/10/2025,UPI,3,2025,
+TXN-1570,,,29,Kolkata,Clothing,150,2,,CREDIT CARD,,,300
+TXN-1571,Vikas Gupta,,42,Bengaluru,Electronics,1500,,,UPI,,,
+TXN-1572,Priya Singh,rahul@gmail.com,35,Kolkata,Electronics,1200.5,3,1/15/2025,COD,1,2025,3601.5
+TXN-1573,Anit Kumar,,28,Mumbai,Electronics,,,,COD,,,
+TXN-1574,Priya Singh,,22,,Clothing,1200.5,1,4/20/2025,UPI,4,2025,1200.5
+TXN-1575,Vikas Gupta,neha.v@gmail.com,,Kolkata,Electronics,350,5,,UPI,,,1750
+TXN-1577,Rahul Sharma,neha.v@gmail.com,24,Delhi,,,2,,,,,
+TXN-1578,Rahul Sharma,,,Delhi,Clothing,,,,COD,,,
+TXN-1579,Vikas Gupta,,42,,Home & Kitchen,350,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1580,Rahul Sharma,,35,Delhi,,,5,1/15/2025,,1,2025,
+TXN-1581,Vikas Gupta,neha.v@gmail.com,,Delhi,Clothing,150,,,COD,,,
+TXN-1582,Rahul Sharma,,24,Mumbai,Clothing,,1,2/15/2025,COD,2,2025,
+TXN-1583,Priya Singh,rahul@gmail.com,,,Clothing,,5,1/15/2025,CREDIT CARD,1,2025,
+TXN-1584,Priya Singh,neha.v@gmail.com,42,,Books,,,,,,,
+TXN-1585,Vikas Gupta,priya.s@yahoo.com,35,Delhi,Clothing,1200.5,1,4/20/2025,COD,4,2025,1200.5
+TXN-1586,Rahul Sharma,,29,Bengaluru,Home & Kitchen,350,2,,CREDIT CARD,,,700
+TXN-1587,Anit Kumar,rahul@gmail.com,31,Mumbai,,,,1/15/2025,COD,1,2025,
+TXN-1589,Vikas Gupta,,29,Bengaluru,Home & Kitchen,499,5,,COD,,,2495
+TXN-1590,Vikas Gupta,,,Mumbai,Electronics,1500,,3/10/2025,COD,3,2025,
+TXN-1591,Vikas Gupta,,29,Bengaluru,,,2,3/10/2025,COD,3,2025,
+TXN-1592,Priya Singh,priya.s@yahoo.com,22,Delhi,Electronics,,,4/20/2025,COD,4,2025,
+TXN-1593,Priya Singh,neha.v@gmail.com,28,Kolkata,Books,,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1594,Rahul Sharma,rahul@gmail.com,,Bengaluru,Books,,3,,UPI,,,
+TXN-1595,,neha.v@gmail.com,31,Delhi,Books,499,,1/15/2025,COD,1,2025,
+TXN-1596,Priya Singh,,29,Kolkata,Electronics,,1,4/20/2025,UPI,4,2025,
+TXN-1597,Rahul Sharma,neha.v@gmail.com,42,Mumbai,Home & Kitchen,1500,2,4/20/2025,UPI,4,2025,3000
+TXN-1598,Anit Kumar,,42,Delhi,Electronics,,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1599,Anit Kumar,neha.v@gmail.com,24,Bengaluru,Books,,,3/10/2025,COD,3,2025,
+TXN-1601,Rahul Sharma,rahul@gmail.com,22,Mumbai,,,2,3/10/2025,UPI,3,2025,
+TXN-1602,Vikas Gupta,priya.s@yahoo.com,22,Bengaluru,Electronics,,,1/15/2025,,1,2025,
+TXN-1603,Anit Kumar,rahul@gmail.com,,Delhi,Home & Kitchen,,1,,UPI,,,
+TXN-1604,Anit Kumar,rahul@gmail.com,29,Delhi,Books,,3,3/10/2025,UPI,3,2025,
+TXN-1605,,,24,Delhi,Clothing,,3,4/20/2025,UPI,4,2025,
+TXN-1606,Neha Verma,,,Mumbai,Home & Kitchen,,5,2/15/2025,,2,2025,
+TXN-1607,Rahul Sharma,rahul@gmail.com,,,Electronics,499,5,2/15/2025,UPI,2,2025,2495
+TXN-1608,,rahul@gmail.com,29,Delhi,,1200.5,5,,UPI,,,6002.5
+TXN-1609,Vikas Gupta,priya.s@yahoo.com,,Mumbai,,1200.5,,1/15/2025,COD,1,2025,
+TXN-1610,Neha Verma,,31,Mumbai,Electronics,1200.5,2,,,,,2401
+TXN-1611,Anit Kumar,priya.s@yahoo.com,22,,Electronics,1500,5,4/20/2025,UPI,4,2025,7500
+TXN-1613,Rahul Sharma,,,Delhi,Clothing,150,1,3/10/2025,COD,3,2025,150
+TXN-1614,Anit Kumar,,35,Kolkata,Home & Kitchen,1500,1,4/20/2025,COD,4,2025,1500
+TXN-1615,Priya Singh,neha.v@gmail.com,,Delhi,Books,,1,,,,,
+TXN-1616,Neha Verma,neha.v@gmail.com,,Bengaluru,Home & Kitchen,,5,1/15/2025,CREDIT CARD,1,2025,
+TXN-1617,Anit Kumar,neha.v@gmail.com,,Mumbai,Electronics,1500,,4/20/2025,UPI,4,2025,
+TXN-1618,Rahul Sharma,,,,Clothing,,5,4/20/2025,CREDIT CARD,4,2025,
+TXN-1619,Rahul Sharma,,22,Delhi,,1500,3,3/10/2025,COD,3,2025,4500
+TXN-1620,Neha Verma,,,Mumbai,Electronics,499,1,,COD,,,499
+TXN-1621,Rahul Sharma,neha.v@gmail.com,22,Bengaluru,Electronics,,,1/15/2025,UPI,1,2025,
+TXN-1622,Anit Kumar,neha.v@gmail.com,24,Delhi,,350,5,4/20/2025,UPI,4,2025,1750
+TXN-1623,,priya.s@yahoo.com,31,Delhi,Electronics,,,,,,,
+TXN-1625,Anit Kumar,neha.v@gmail.com,,Kolkata,Clothing,150,,2/15/2025,COD,2,2025,
+TXN-1626,Rahul Sharma,rahul@gmail.com,31,Kolkata,Electronics,350,,2/15/2025,COD,2,2025,
+TXN-1627,Neha Verma,,,Bengaluru,Electronics,1500,,1/15/2025,UPI,1,2025,
+TXN-1628,Neha Verma,,28,Mumbai,Clothing,150,2,2/15/2025,CREDIT CARD,2,2025,300
+TXN-1629,Rahul Sharma,,,Bengaluru,Electronics,,,1/15/2025,,1,2025,
+TXN-1630,Rahul Sharma,,31,Mumbai,Electronics,350,,4/20/2025,COD,4,2025,
+TXN-1631,Neha Verma,rahul@gmail.com,29,Mumbai,Electronics,499,,,COD,,,
+TXN-1632,Priya Singh,neha.v@gmail.com,31,Delhi,Home & Kitchen,1500,1,2/15/2025,COD,2,2025,1500
+TXN-1633,Anit Kumar,,,Delhi,Clothing,1200.5,,,CREDIT CARD,,,
+TXN-1634,Rahul Sharma,priya.s@yahoo.com,24,Mumbai,Electronics,1500,2,,COD,,,3000
+TXN-1635,,,,,,,3,1/15/2025,CREDIT CARD,1,2025,
+TXN-1637,Rahul Sharma,priya.s@yahoo.com,28,Mumbai,Electronics,150,,4/20/2025,COD,4,2025,
+TXN-1638,Neha Verma,,35,Mumbai,Books,,5,3/10/2025,UPI,3,2025,
+TXN-1639,Vikas Gupta,rahul@gmail.com,28,Bengaluru,,350,,,UPI,,,
+TXN-1640,Neha Verma,neha.v@gmail.com,,,Electronics,1200.5,2,,COD,,,2401
+TXN-1641,,,,Mumbai,Home & Kitchen,,2,,UPI,,,
+TXN-1642,,,,Delhi,,,,1/15/2025,COD,1,2025,
+TXN-1643,,neha.v@gmail.com,31,Delhi,,,2,1/15/2025,COD,1,2025,
+TXN-1644,,,,Mumbai,,499,2,3/10/2025,CREDIT CARD,3,2025,998
+TXN-1645,,rahul@gmail.com,35,Delhi,Electronics,,,1/15/2025,COD,1,2025,
+TXN-1646,Priya Singh,,42,Bengaluru,Electronics,,5,3/10/2025,COD,3,2025,
+TXN-1647,Anit Kumar,,24,Kolkata,Books,,1,4/20/2025,COD,4,2025,
+TXN-1649,Rahul Sharma,rahul@gmail.com,,Kolkata,Electronics,,3,,UPI,,,
+TXN-1650,,,31,Mumbai,Home & Kitchen,,3,1/15/2025,UPI,1,2025,
+TXN-1651,Anit Kumar,rahul@gmail.com,22,Mumbai,Home & Kitchen,499,5,2/15/2025,COD,2,2025,2495
+TXN-1652,Neha Verma,neha.v@gmail.com,22,Bengaluru,Home & Kitchen,1500,,4/20/2025,,4,2025,
+TXN-1653,Anit Kumar,priya.s@yahoo.com,22,Delhi,Home & Kitchen,350,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1654,,neha.v@gmail.com,35,Mumbai,Home & Kitchen,,3,,,,,
+TXN-1655,Vikas Gupta,neha.v@gmail.com,,Bengaluru,Electronics,350,5,,UPI,,,1750
+TXN-1656,Rahul Sharma,,29,Delhi,Electronics,,2,4/20/2025,COD,4,2025,
+TXN-1657,,rahul@gmail.com,31,Bengaluru,Books,,1,,COD,,,
+TXN-1658,Anit Kumar,rahul@gmail.com,29,Mumbai,Electronics,350,2,2/15/2025,UPI,2,2025,700
+TXN-1659,Neha Verma,,35,Mumbai,Electronics,,2,4/20/2025,CREDIT CARD,4,2025,
+TXN-1661,,priya.s@yahoo.com,31,Bengaluru,Electronics,499,,2/15/2025,COD,2,2025,
+TXN-1662,Rahul Sharma,,35,Delhi,Clothing,499,,1/15/2025,COD,1,2025,
+TXN-1663,Anit Kumar,priya.s@yahoo.com,,Mumbai,,,3,1/15/2025,UPI,1,2025,
+TXN-1664,Rahul Sharma,rahul@gmail.com,24,,,1200.5,1,4/20/2025,COD,4,2025,1200.5
+TXN-1665,,,,Bengaluru,Books,,,2/15/2025,,2,2025,
+TXN-1666,Anit Kumar,priya.s@yahoo.com,35,Delhi,Electronics,,,,COD,,,
+TXN-1667,Neha Verma,,,Mumbai,Electronics,350,,4/20/2025,,4,2025,
+TXN-1668,Priya Singh,priya.s@yahoo.com,24,,Electronics,350,,1/15/2025,COD,1,2025,
+TXN-1669,Priya Singh,priya.s@yahoo.com,,Delhi,Electronics,,,,,,,
+TXN-1670,Rahul Sharma,,24,Delhi,Electronics,499,,,COD,,,
+TXN-1671,,priya.s@yahoo.com,,Kolkata,Electronics,499,1,1/15/2025,COD,1,2025,499
+TXN-1673,,rahul@gmail.com,31,Mumbai,Electronics,150,,4/20/2025,COD,4,2025,
+TXN-1674,,,31,Bengaluru,Electronics,499,2,4/20/2025,COD,4,2025,998
+TXN-1675,Priya Singh,priya.s@yahoo.com,29,Bengaluru,Clothing,350,2,2/15/2025,UPI,2,2025,700
+TXN-1676,Neha Verma,priya.s@yahoo.com,24,Kolkata,Clothing,1500,,1/15/2025,COD,1,2025,
+TXN-1677,Neha Verma,,,Mumbai,Electronics,499,5,2/15/2025,UPI,2,2025,2495
+TXN-1678,Anit Kumar,,29,,Electronics,,,4/20/2025,COD,4,2025,
+TXN-1679,Rahul Sharma,priya.s@yahoo.com,22,Delhi,Home & Kitchen,1500,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1680,Neha Verma,rahul@gmail.com,,Delhi,Books,,,3/10/2025,COD,3,2025,
+TXN-1681,Vikas Gupta,neha.v@gmail.com,,Delhi,Books,,,1/15/2025,COD,1,2025,
+TXN-1682,Rahul Sharma,rahul@gmail.com,,Delhi,Clothing,150,1,,COD,,,150
+TXN-1683,Anit Kumar,priya.s@yahoo.com,28,Bengaluru,Electronics,350,,,COD,,,
+TXN-1685,Priya Singh,,24,Delhi,,499,1,,CREDIT CARD,,,499
+TXN-1686,Rahul Sharma,priya.s@yahoo.com,,Delhi,Electronics,150,2,1/15/2025,CREDIT CARD,1,2025,300
+TXN-1687,Vikas Gupta,,,Bengaluru,Clothing,,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1688,Neha Verma,,22,Bengaluru,Clothing,,3,1/15/2025,UPI,1,2025,
+TXN-1689,Neha Verma,rahul@gmail.com,24,Bengaluru,Home & Kitchen,1500,,,UPI,,,
+TXN-1690,,priya.s@yahoo.com,29,Bengaluru,Electronics,1200.5,5,,COD,,,6002.5
+TXN-1691,Anit Kumar,,,Bengaluru,Books,1500,,,UPI,,,
+TXN-1692,Rahul Sharma,rahul@gmail.com,,Delhi,Books,,,2/15/2025,UPI,2,2025,
+TXN-1693,Rahul Sharma,priya.s@yahoo.com,24,Mumbai,Books,,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1694,Rahul Sharma,neha.v@gmail.com,24,Bengaluru,Clothing,,2,2/15/2025,CREDIT CARD,2,2025,
+TXN-1695,,,42,Delhi,Home & Kitchen,,1,,,,,
+TXN-1697,Neha Verma,rahul@gmail.com,24,Delhi,Electronics,,2,4/20/2025,UPI,4,2025,
+TXN-1698,Rahul Sharma,neha.v@gmail.com,29,Mumbai,Clothing,150,1,4/20/2025,,4,2025,150
+TXN-1699,Vikas Gupta,rahul@gmail.com,35,Mumbai,Home & Kitchen,350,5,,CREDIT CARD,,,1750
+TXN-1700,Vikas Gupta,,31,Kolkata,Clothing,1200.5,3,3/10/2025,COD,3,2025,3601.5
+TXN-1701,,,,Bengaluru,,,1,1/15/2025,UPI,1,2025,
+TXN-1702,Priya Singh,,24,Delhi,Electronics,,2,4/20/2025,COD,4,2025,
+TXN-1703,,,,Bengaluru,Electronics,499,,,CREDIT CARD,,,
+TXN-1704,Rahul Sharma,,35,Bengaluru,,,1,,CREDIT CARD,,,
+TXN-1705,Anit Kumar,rahul@gmail.com,,Mumbai,Home & Kitchen,,5,2/15/2025,COD,2,2025,
+TXN-1706,Neha Verma,,42,Delhi,Electronics,,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1707,,,22,Mumbai,Electronics,1500,,2/15/2025,UPI,2,2025,
+TXN-1709,Neha Verma,,28,Bengaluru,Electronics,1200.5,3,,UPI,,,3601.5
+TXN-1710,Anit Kumar,rahul@gmail.com,42,Delhi,Electronics,350,3,2/15/2025,UPI,2,2025,1050
+TXN-1711,Rahul Sharma,neha.v@gmail.com,22,,Electronics,,1,3/10/2025,UPI,3,2025,
+TXN-1712,Vikas Gupta,neha.v@gmail.com,29,Delhi,Electronics,1500,1,1/15/2025,,1,2025,1500
+TXN-1713,Vikas Gupta,,,Bengaluru,Electronics,499,1,1/15/2025,CREDIT CARD,1,2025,499
+TXN-1714,Priya Singh,,,Mumbai,Books,499,,3/10/2025,COD,3,2025,
+TXN-1715,,,35,Delhi,Books,,2,2/15/2025,UPI,2,2025,
+TXN-1716,Anit Kumar,neha.v@gmail.com,,Delhi,Electronics,350,2,,,,,700
+TXN-1717,Priya Singh,rahul@gmail.com,42,Mumbai,Electronics,350,5,2/15/2025,UPI,2,2025,1750
+TXN-1718,Vikas Gupta,rahul@gmail.com,,Delhi,Clothing,1200.5,3,4/20/2025,CREDIT CARD,4,2025,3601.5
+TXN-1719,Priya Singh,,31,Mumbai,Electronics,1200.5,,3/10/2025,UPI,3,2025,
+TXN-1721,Rahul Sharma,,29,Kolkata,,,5,2/15/2025,UPI,2,2025,
+TXN-1722,Rahul Sharma,neha.v@gmail.com,22,Bengaluru,Electronics,,5,,UPI,,,
+TXN-1723,Priya Singh,rahul@gmail.com,35,Mumbai,Home & Kitchen,,,2/15/2025,COD,2,2025,
+TXN-1724,Rahul Sharma,,31,Kolkata,Electronics,,,,CREDIT CARD,,,
+TXN-1725,Neha Verma,neha.v@gmail.com,42,Mumbai,Clothing,,,1/15/2025,UPI,1,2025,
+TXN-1726,Vikas Gupta,,31,Bengaluru,,,,2/15/2025,COD,2,2025,
+TXN-1727,Vikas Gupta,rahul@gmail.com,,Delhi,Books,350,2,1/15/2025,,1,2025,700
+TXN-1728,Rahul Sharma,rahul@gmail.com,,Delhi,Books,,,4/20/2025,COD,4,2025,
+TXN-1729,Rahul Sharma,,29,Kolkata,Electronics,1500,5,,COD,,,7500
+TXN-1730,Rahul Sharma,,31,Bengaluru,Books,,,,COD,,,
+TXN-1731,,priya.s@yahoo.com,,Bengaluru,Electronics,1500,3,2/15/2025,COD,2,2025,4500
+TXN-1733,Priya Singh,priya.s@yahoo.com,35,Bengaluru,Electronics,499,1,,UPI,,,499
+TXN-1734,,,29,Delhi,Electronics,499,,1/15/2025,,1,2025,
+TXN-1735,,,31,,,150,3,1/15/2025,COD,1,2025,450
+TXN-1736,Rahul Sharma,neha.v@gmail.com,,,Electronics,499,3,1/15/2025,COD,1,2025,1497
+TXN-1737,Rahul Sharma,,31,Kolkata,Electronics,,3,2/15/2025,UPI,2,2025,
+TXN-1738,Rahul Sharma,,,Delhi,Electronics,,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1739,Priya Singh,neha.v@gmail.com,,,Electronics,1200.5,,4/20/2025,COD,4,2025,
+TXN-1740,Priya Singh,,,Mumbai,Home & Kitchen,,1,4/20/2025,COD,4,2025,
+TXN-1741,,,,Kolkata,Home & Kitchen,499,,,COD,,,
+TXN-1742,,,,Mumbai,Home & Kitchen,350,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1743,Rahul Sharma,,24,Bengaluru,Electronics,1200.5,,,COD,,,
+TXN-1745,Vikas Gupta,,42,Delhi,Clothing,1200.5,1,,COD,,,1200.5
+TXN-1746,Vikas Gupta,,42,Mumbai,Home & Kitchen,1500,3,4/20/2025,UPI,4,2025,4500
+TXN-1747,Rahul Sharma,,,Delhi,Electronics,150,,2/15/2025,,2,2025,
+TXN-1748,Vikas Gupta,,31,Delhi,Electronics,150,2,2/15/2025,,2,2025,300
+TXN-1749,Rahul Sharma,rahul@gmail.com,,Delhi,Electronics,350,1,2/15/2025,UPI,2,2025,350
+TXN-1750,Priya Singh,neha.v@gmail.com,42,Mumbai,Electronics,1200.5,5,4/20/2025,CREDIT CARD,4,2025,6002.5
+TXN-1751,Priya Singh,rahul@gmail.com,,Delhi,Electronics,1200.5,,3/10/2025,COD,3,2025,
+TXN-1752,Vikas Gupta,neha.v@gmail.com,,,Electronics,,3,,COD,,,
+TXN-1753,,neha.v@gmail.com,42,Kolkata,Electronics,499,3,,,,,1497
+TXN-1754,Neha Verma,,29,Bengaluru,Clothing,1200.5,,,CREDIT CARD,,,
+TXN-1755,Rahul Sharma,neha.v@gmail.com,,Mumbai,Home & Kitchen,350,,2/15/2025,UPI,2,2025,
+TXN-1757,Neha Verma,,,Delhi,Electronics,,2,,CREDIT CARD,,,
+TXN-1758,Priya Singh,,31,Bengaluru,Electronics,,5,4/20/2025,CREDIT CARD,4,2025,
+TXN-1759,Vikas Gupta,priya.s@yahoo.com,,Mumbai,Books,,2,1/15/2025,COD,1,2025,
+TXN-1760,Rahul Sharma,,,Kolkata,Clothing,1500,,,UPI,,,
+TXN-1761,Rahul Sharma,,28,Mumbai,Books,499,1,2/15/2025,COD,2,2025,499
+TXN-1762,Priya Singh,,24,Bengaluru,Books,499,1,4/20/2025,,4,2025,499
+TXN-1763,Vikas Gupta,,,Kolkata,Electronics,499,,,UPI,,,
+TXN-1764,Rahul Sharma,,31,Bengaluru,Electronics,150,5,,COD,,,750
+TXN-1765,,neha.v@gmail.com,,Delhi,Home & Kitchen,150,5,1/15/2025,UPI,1,2025,750
+TXN-1766,Neha Verma,rahul@gmail.com,,Kolkata,,,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1767,Neha Verma,,,Delhi,Electronics,,1,3/10/2025,CREDIT CARD,3,2025,
+TXN-1769,Anit Kumar,,,Mumbai,Electronics,1500,5,,CREDIT CARD,,,7500
+TXN-1770,Vikas Gupta,neha.v@gmail.com,22,Mumbai,Books,,5,1/15/2025,COD,1,2025,
+TXN-1771,Rahul Sharma,,,Delhi,Electronics,1500,,,COD,,,
+TXN-1772,Neha Verma,,28,Bengaluru,Clothing,499,,2/15/2025,UPI,2,2025,
+TXN-1773,Vikas Gupta,priya.s@yahoo.com,,Delhi,Electronics,499,5,2/15/2025,COD,2,2025,2495
+TXN-1774,,neha.v@gmail.com,29,,,1500,3,1/15/2025,,1,2025,4500
+TXN-1775,Neha Verma,,,Bengaluru,Electronics,350,,,UPI,,,
+TXN-1776,Rahul Sharma,rahul@gmail.com,,Bengaluru,Home & Kitchen,,,1/15/2025,,1,2025,
+TXN-1777,Vikas Gupta,rahul@gmail.com,29,Kolkata,Electronics,,,,COD,,,
+TXN-1778,Neha Verma,rahul@gmail.com,42,Delhi,Books,1500,3,3/10/2025,UPI,3,2025,4500
+TXN-1779,Rahul Sharma,rahul@gmail.com,42,,Electronics,,3,,COD,,,
+TXN-1781,,rahul@gmail.com,,Kolkata,Clothing,1500,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1782,Vikas Gupta,neha.v@gmail.com,31,Mumbai,,,,,UPI,,,
+TXN-1783,Rahul Sharma,neha.v@gmail.com,,Bengaluru,Books,,3,4/20/2025,COD,4,2025,
+TXN-1784,Rahul Sharma,,35,Bengaluru,Electronics,350,2,4/20/2025,COD,4,2025,700
+TXN-1785,Anit Kumar,priya.s@yahoo.com,28,Mumbai,Clothing,,,2/15/2025,COD,2,2025,
+TXN-1786,Vikas Gupta,,24,,Electronics,499,,3/10/2025,COD,3,2025,
+TXN-1787,Priya Singh,rahul@gmail.com,24,Kolkata,Home & Kitchen,,,1/15/2025,UPI,1,2025,
+TXN-1788,Vikas Gupta,,42,,Clothing,150,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1789,,,42,Mumbai,Electronics,150,5,1/15/2025,UPI,1,2025,750
+TXN-1790,Anit Kumar,,22,Mumbai,Electronics,499,5,2/15/2025,,2,2025,2495
+TXN-1791,Vikas Gupta,,,Mumbai,Books,,,4/20/2025,CREDIT CARD,4,2025,
+TXN-1793,Neha Verma,rahul@gmail.com,42,Bengaluru,Electronics,1500,,,CREDIT CARD,,,
+TXN-1794,Rahul Sharma,,,Delhi,Electronics,150,2,2/15/2025,COD,2,2025,300
+TXN-1795,,,42,Mumbai,Home & Kitchen,1500,,2/15/2025,,2,2025,
+TXN-1796,Priya Singh,neha.v@gmail.com,22,Kolkata,Clothing,1500,2,4/20/2025,COD,4,2025,3000
+TXN-1797,Anit Kumar,,28,Delhi,Electronics,,5,1/15/2025,CREDIT CARD,1,2025,
+TXN-1798,Rahul Sharma,neha.v@gmail.com,,Kolkata,Electronics,150,3,1/15/2025,UPI,1,2025,450
+TXN-1799,Rahul Sharma,rahul@gmail.com,,Delhi,Electronics,350,2,4/20/2025,COD,4,2025,700
+TXN-1800,,,29,Bengaluru,Electronics,,1,3/10/2025,COD,3,2025,
+TXN-1801,Anit Kumar,,28,Bengaluru,Electronics,,1,3/10/2025,CREDIT CARD,3,2025,
+TXN-1802,Priya Singh,,,Delhi,Electronics,150,1,2/15/2025,COD,2,2025,150
+TXN-1803,Anit Kumar,,35,Mumbai,,,,,COD,,,
+TXN-1805,Anit Kumar,,31,Bengaluru,Electronics,350,,3/10/2025,,3,2025,
+TXN-1806,Neha Verma,,35,,Home & Kitchen,350,1,,COD,,,350
+TXN-1807,Rahul Sharma,priya.s@yahoo.com,,Delhi,Electronics,350,5,,UPI,,,1750
+TXN-1808,Priya Singh,priya.s@yahoo.com,,Mumbai,Electronics,,,1/15/2025,UPI,1,2025,
+TXN-1809,Priya Singh,neha.v@gmail.com,29,Bengaluru,,499,2,1/15/2025,,1,2025,998
+TXN-1810,Priya Singh,,29,Delhi,Books,350,,4/20/2025,,4,2025,
+TXN-1811,Rahul Sharma,priya.s@yahoo.com,,Delhi,Electronics,350,,1/15/2025,COD,1,2025,
+TXN-1812,,rahul@gmail.com,42,Mumbai,Electronics,,,,UPI,,,
+TXN-1813,Priya Singh,,,Bengaluru,Electronics,,,2/15/2025,COD,2,2025,
+TXN-1814,,,,Kolkata,Electronics,1200.5,1,2/15/2025,COD,2,2025,1200.5
+TXN-1815,Priya Singh,,,,Clothing,350,3,1/15/2025,UPI,1,2025,1050
+TXN-1817,Rahul Sharma,,22,Delhi,Electronics,,,,,,,
+TXN-1818,Rahul Sharma,,28,Mumbai,Home & Kitchen,,,1/15/2025,COD,1,2025,
+TXN-1819,Anit Kumar,priya.s@yahoo.com,,Bengaluru,Clothing,,5,1/15/2025,CREDIT CARD,1,2025,
+TXN-1820,Neha Verma,,24,Delhi,Clothing,350,2,2/15/2025,,2,2025,700
+TXN-1821,Rahul Sharma,,42,Delhi,Home & Kitchen,,1,4/20/2025,COD,4,2025,
+TXN-1822,Rahul Sharma,,31,Bengaluru,Electronics,1200.5,5,,COD,,,6002.5
+TXN-1823,Rahul Sharma,,22,Mumbai,Electronics,499,2,,COD,,,998
+TXN-1824,Priya Singh,neha.v@gmail.com,35,Mumbai,,499,5,,COD,,,2495
+TXN-1825,Vikas Gupta,neha.v@gmail.com,,Bengaluru,Electronics,,3,3/10/2025,,3,2025,
+TXN-1826,Rahul Sharma,,35,Bengaluru,,1200.5,3,,,,,3601.5
+TXN-1827,Rahul Sharma,rahul@gmail.com,22,Kolkata,Electronics,1500,,2/15/2025,UPI,2,2025,
+TXN-1829,Neha Verma,neha.v@gmail.com,29,Kolkata,Clothing,,3,4/20/2025,UPI,4,2025,
+TXN-1830,,neha.v@gmail.com,35,Kolkata,Clothing,1500,3,3/10/2025,CREDIT CARD,3,2025,4500
+TXN-1831,Rahul Sharma,,,,,,,2/15/2025,COD,2,2025,
+TXN-1832,Vikas Gupta,rahul@gmail.com,22,Bengaluru,Electronics,,,1/15/2025,UPI,1,2025,
+TXN-1833,Vikas Gupta,priya.s@yahoo.com,22,Mumbai,Clothing,150,3,3/10/2025,UPI,3,2025,450
+TXN-1834,Neha Verma,,,Delhi,Home & Kitchen,499,,2/15/2025,UPI,2,2025,
+TXN-1835,Rahul Sharma,neha.v@gmail.com,24,Mumbai,Electronics,150,1,1/15/2025,,1,2025,150
+TXN-1836,Rahul Sharma,,24,Mumbai,Electronics,150,1,2/15/2025,,2,2025,150
+TXN-1837,Rahul Sharma,,28,Delhi,Electronics,499,5,4/20/2025,CREDIT CARD,4,2025,2495
+TXN-1838,Anit Kumar,,,Mumbai,,1200.5,3,,COD,,,3601.5
+TXN-1839,Anit Kumar,rahul@gmail.com,,Delhi,,,3,2/15/2025,COD,2,2025,
+TXN-1841,Rahul Sharma,priya.s@yahoo.com,,,Electronics,499,5,2/15/2025,UPI,2,2025,2495
+TXN-1842,Vikas Gupta,,31,,,1500,,1/15/2025,,1,2025,
+TXN-1843,Vikas Gupta,neha.v@gmail.com,31,Kolkata,Electronics,150,,,UPI,,,
+TXN-1844,Rahul Sharma,,29,Bengaluru,Electronics,,1,,COD,,,
+TXN-1845,Neha Verma,rahul@gmail.com,35,Delhi,Electronics,1200.5,,,CREDIT CARD,,,
+TXN-1846,,priya.s@yahoo.com,31,Kolkata,Electronics,499,2,1/15/2025,CREDIT CARD,1,2025,998
+TXN-1847,,neha.v@gmail.com,29,Mumbai,Clothing,150,2,,,,,300
+TXN-1848,Neha Verma,neha.v@gmail.com,,,Clothing,1500,3,2/15/2025,UPI,2,2025,4500
+TXN-1849,Vikas Gupta,rahul@gmail.com,42,Bengaluru,Home & Kitchen,,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1850,Neha Verma,rahul@gmail.com,28,,Books,,3,,,,,
+TXN-1851,Priya Singh,neha.v@gmail.com,,Bengaluru,Clothing,350,5,,COD,,,1750
+TXN-1853,Priya Singh,priya.s@yahoo.com,29,Delhi,Electronics,1500,,,COD,,,
+TXN-1854,Anit Kumar,,,Mumbai,Clothing,,,3/10/2025,UPI,3,2025,
+TXN-1855,Rahul Sharma,,,Bengaluru,,1500,1,2/15/2025,UPI,2,2025,1500
+TXN-1856,Rahul Sharma,,35,Delhi,Clothing,150,5,,UPI,,,750
+TXN-1857,Rahul Sharma,,22,Mumbai,Electronics,,2,4/20/2025,UPI,4,2025,
+TXN-1858,Rahul Sharma,priya.s@yahoo.com,,Kolkata,Electronics,1200.5,,2/15/2025,UPI,2,2025,
+TXN-1859,Anit Kumar,,,Mumbai,Home & Kitchen,499,2,4/20/2025,UPI,4,2025,998
+TXN-1860,,,24,Delhi,Home & Kitchen,150,5,3/10/2025,CREDIT CARD,3,2025,750
+TXN-1861,,neha.v@gmail.com,,Mumbai,Home & Kitchen,,,3/10/2025,COD,3,2025,
+TXN-1862,Vikas Gupta,,42,Kolkata,Clothing,350,,2/15/2025,COD,2,2025,
+TXN-1863,Rahul Sharma,,35,Bengaluru,,1200.5,,3/10/2025,COD,3,2025,
+TXN-1865,Priya Singh,rahul@gmail.com,,Bengaluru,Electronics,499,,1/15/2025,COD,1,2025,
+TXN-1866,Vikas Gupta,rahul@gmail.com,,Bengaluru,,,,4/20/2025,,4,2025,
+TXN-1867,Rahul Sharma,priya.s@yahoo.com,,Mumbai,Home & Kitchen,,,,UPI,,,
+TXN-1868,Priya Singh,priya.s@yahoo.com,31,Delhi,,350,,1/15/2025,UPI,1,2025,
+TXN-1869,Neha Verma,,,Bengaluru,Home & Kitchen,150,5,3/10/2025,UPI,3,2025,750
+TXN-1870,Neha Verma,rahul@gmail.com,28,,Electronics,1200.5,1,2/15/2025,CREDIT CARD,2,2025,1200.5
+TXN-1871,Rahul Sharma,neha.v@gmail.com,,Mumbai,,,,1/15/2025,UPI,1,2025,
+TXN-1872,Rahul Sharma,rahul@gmail.com,,Delhi,Electronics,350,,,UPI,,,
+TXN-1873,Neha Verma,,28,,Electronics,1500,3,,CREDIT CARD,,,4500
+TXN-1874,Neha Verma,,35,Delhi,Electronics,,,,CREDIT CARD,,,
+TXN-1875,,neha.v@gmail.com,35,Mumbai,Electronics,150,5,2/15/2025,,2,2025,750
+TXN-1877,Rahul Sharma,,,Delhi,Electronics,1500,3,2/15/2025,UPI,2,2025,4500
+TXN-1878,,,42,Delhi,,1200.5,,3/10/2025,,3,2025,
+TXN-1879,Rahul Sharma,,22,Mumbai,Electronics,,,,UPI,,,
+TXN-1880,Priya Singh,,,Mumbai,Electronics,1500,1,2/15/2025,,2,2025,1500
+TXN-1881,Vikas Gupta,,,Mumbai,Home & Kitchen,350,2,4/20/2025,COD,4,2025,700
+TXN-1882,Rahul Sharma,priya.s@yahoo.com,42,Bengaluru,Books,,,,UPI,,,
+TXN-1883,Priya Singh,,29,Kolkata,Home & Kitchen,,5,2/15/2025,UPI,2,2025,
+TXN-1884,Rahul Sharma,rahul@gmail.com,,Delhi,,499,3,,UPI,,,1497
+TXN-1885,Anit Kumar,,,Bengaluru,Books,150,,,CREDIT CARD,,,
+TXN-1886,Rahul Sharma,,,Delhi,Electronics,1200.5,,2/15/2025,COD,2,2025,
+TXN-1887,Anit Kumar,rahul@gmail.com,24,Delhi,Home & Kitchen,,3,1/15/2025,CREDIT CARD,1,2025,
+TXN-1889,Rahul Sharma,neha.v@gmail.com,22,Mumbai,Books,,2,,COD,,,
+TXN-1890,Anit Kumar,neha.v@gmail.com,,,Home & Kitchen,,3,,CREDIT CARD,,,
+TXN-1891,Anit Kumar,,,Mumbai,,,,2/15/2025,,2,2025,
+TXN-1892,Vikas Gupta,,,Delhi,Clothing,150,1,,,,,150
+TXN-1893,Rahul Sharma,,42,Kolkata,Books,,3,,UPI,,,
+TXN-1894,Anit Kumar,neha.v@gmail.com,22,Delhi,Electronics,1200.5,,,COD,,,
+TXN-1895,Vikas Gupta,,,Delhi,,,5,3/10/2025,,3,2025,
+TXN-1896,Vikas Gupta,rahul@gmail.com,28,,Electronics,350,,1/15/2025,UPI,1,2025,
+TXN-1897,Rahul Sharma,priya.s@yahoo.com,29,Delhi,,,,4/20/2025,UPI,4,2025,
+TXN-1898,Anit Kumar,,,Mumbai,Electronics,150,2,,UPI,,,300
+TXN-1899,Vikas Gupta,,35,Bengaluru,Electronics,499,,4/20/2025,COD,4,2025,
+TXN-1901,Rahul Sharma,rahul@gmail.com,,,Home & Kitchen,1200.5,,2/15/2025,COD,2,2025,
+TXN-1902,Rahul Sharma,priya.s@yahoo.com,31,Delhi,Electronics,350,2,3/10/2025,UPI,3,2025,700
+TXN-1903,,,,Bengaluru,Home & Kitchen,,,,COD,,,
+TXN-1904,Neha Verma,priya.s@yahoo.com,28,Bengaluru,Home & Kitchen,150,1,,,,,150
+TXN-1905,Rahul Sharma,priya.s@yahoo.com,,Mumbai,Electronics,150,,2/15/2025,COD,2,2025,
+TXN-1906,Anit Kumar,,,Kolkata,Electronics,1500,,,COD,,,
+TXN-1907,Priya Singh,,,Mumbai,Clothing,499,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1908,,,24,Mumbai,Electronics,,3,,COD,,,
+TXN-1909,Rahul Sharma,rahul@gmail.com,42,Bengaluru,Clothing,1200.5,5,1/15/2025,UPI,1,2025,6002.5
+TXN-1910,Vikas Gupta,rahul@gmail.com,42,Bengaluru,Electronics,,,,UPI,,,
+TXN-1911,,,35,,Electronics,499,3,1/15/2025,COD,1,2025,1497
+TXN-1913,Vikas Gupta,,35,Delhi,Electronics,1200.5,1,,CREDIT CARD,,,1200.5
+TXN-1914,Rahul Sharma,priya.s@yahoo.com,29,Mumbai,Books,,3,4/20/2025,CREDIT CARD,4,2025,
+TXN-1915,Priya Singh,priya.s@yahoo.com,24,Bengaluru,,150,,,COD,,,
+TXN-1916,Priya Singh,,,,Electronics,150,1,1/15/2025,,1,2025,150
+TXN-1917,Vikas Gupta,,,Bengaluru,Books,,,,COD,,,
+TXN-1918,Rahul Sharma,neha.v@gmail.com,31,,Electronics,499,2,,,,,998
+TXN-1919,Neha Verma,priya.s@yahoo.com,29,Delhi,Books,1200.5,3,,,,,3601.5
+TXN-1920,Priya Singh,,31,Delhi,Electronics,499,,,UPI,,,
+TXN-1921,Priya Singh,,,Bengaluru,Electronics,1500,,4/20/2025,COD,4,2025,
+TXN-1922,Priya Singh,neha.v@gmail.com,42,Bengaluru,,,3,1/15/2025,UPI,1,2025,
+TXN-1923,Rahul Sharma,,42,Mumbai,Clothing,,2,,UPI,,,
+TXN-1925,Rahul Sharma,,24,Mumbai,Books,1500,3,2/15/2025,UPI,2,2025,4500
+TXN-1926,Neha Verma,neha.v@gmail.com,28,Mumbai,Electronics,,2,1/15/2025,UPI,1,2025,
+TXN-1927,Priya Singh,rahul@gmail.com,31,Delhi,Electronics,150,1,,CREDIT CARD,,,150
+TXN-1928,Rahul Sharma,,29,Bengaluru,Books,350,3,1/15/2025,COD,1,2025,1050
+TXN-1929,,rahul@gmail.com,31,Kolkata,Electronics,,,4/20/2025,COD,4,2025,
+TXN-1930,Anit Kumar,,,,Home & Kitchen,499,1,4/20/2025,CREDIT CARD,4,2025,499
+TXN-1931,Vikas Gupta,rahul@gmail.com,28,,Electronics,,,,COD,,,
+TXN-1932,Anit Kumar,,24,Kolkata,Electronics,150,2,2/15/2025,UPI,2,2025,300
+TXN-1933,Priya Singh,,28,Kolkata,Electronics,1500,1,2/15/2025,COD,2,2025,1500
+TXN-1934,Neha Verma,,22,Bengaluru,Home & Kitchen,1500,,3/10/2025,COD,3,2025,
+TXN-1935,Neha Verma,,31,Bengaluru,Clothing,,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1937,,neha.v@gmail.com,42,Delhi,Electronics,,,4/20/2025,UPI,4,2025,
+TXN-1938,Rahul Sharma,neha.v@gmail.com,24,Kolkata,Electronics,499,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1939,Vikas Gupta,,31,Mumbai,Home & Kitchen,,,1/15/2025,COD,1,2025,
+TXN-1940,Vikas Gupta,,35,Delhi,Electronics,,2,,COD,,,
+TXN-1941,Priya Singh,rahul@gmail.com,35,Bengaluru,,1500,2,4/20/2025,COD,4,2025,3000
+TXN-1942,Anit Kumar,,,Delhi,,,3,3/10/2025,,3,2025,
+TXN-1943,Rahul Sharma,rahul@gmail.com,31,,Books,499,,2/15/2025,UPI,2,2025,
+TXN-1944,Neha Verma,,29,Kolkata,Books,1200.5,5,4/20/2025,CREDIT CARD,4,2025,6002.5
+TXN-1945,Rahul Sharma,priya.s@yahoo.com,28,Mumbai,Electronics,499,,,UPI,,,
+TXN-1946,Anit Kumar,,,Mumbai,Electronics,1500,,,CREDIT CARD,,,
+TXN-1947,Neha Verma,,42,Delhi,Electronics,,3,4/20/2025,COD,4,2025,
+TXN-1949,Rahul Sharma,,29,Mumbai,Books,,3,1/15/2025,CREDIT CARD,1,2025,
+TXN-1950,Rahul Sharma,rahul@gmail.com,28,Bengaluru,,1500,2,,CREDIT CARD,,,3000
+TXN-1951,,,31,Delhi,Home & Kitchen,150,,,UPI,,,
+TXN-1952,Priya Singh,rahul@gmail.com,29,Mumbai,,350,,2/15/2025,,2,2025,
+TXN-1953,Rahul Sharma,priya.s@yahoo.com,22,Bengaluru,Home & Kitchen,499,1,4/20/2025,COD,4,2025,499
+TXN-1954,Neha Verma,,29,Kolkata,,150,,,UPI,,,
+TXN-1955,,,35,Mumbai,Electronics,,,2/15/2025,,2,2025,
+TXN-1956,Vikas Gupta,,31,Mumbai,Electronics,,5,3/10/2025,,3,2025,
+TXN-1957,,,,Mumbai,,,2,4/20/2025,UPI,4,2025,
+TXN-1958,Priya Singh,rahul@gmail.com,29,Kolkata,Home & Kitchen,1200.5,2,,,,,2401
+TXN-1959,Rahul Sharma,,24,Kolkata,Clothing,350,5,4/20/2025,,4,2025,1750
+TXN-1961,Vikas Gupta,neha.v@gmail.com,31,Kolkata,Clothing,1500,,1/15/2025,CREDIT CARD,1,2025,
+TXN-1962,Anit Kumar,,29,Mumbai,Clothing,499,,4/20/2025,COD,4,2025,
+TXN-1963,Vikas Gupta,priya.s@yahoo.com,,Mumbai,Electronics,,5,1/15/2025,COD,1,2025,
+TXN-1964,,,,,Books,,,,CREDIT CARD,,,
+TXN-1965,Neha Verma,priya.s@yahoo.com,22,Bengaluru,Electronics,350,,4/20/2025,,4,2025,
+TXN-1966,Vikas Gupta,rahul@gmail.com,,Mumbai,Books,,1,3/10/2025,,3,2025,
+TXN-1967,Rahul Sharma,,,,Electronics,1200.5,1,,CREDIT CARD,,,1200.5
+TXN-1968,Vikas Gupta,neha.v@gmail.com,22,Delhi,Home & Kitchen,1200.5,3,1/15/2025,,1,2025,3601.5
+TXN-1969,Neha Verma,rahul@gmail.com,42,Delhi,Home & Kitchen,1200.5,1,3/10/2025,UPI,3,2025,1200.5
+TXN-1970,Vikas Gupta,,24,Delhi,,150,5,,COD,,,750
+TXN-1971,Rahul Sharma,,28,Mumbai,Electronics,499,,3/10/2025,UPI,3,2025,
+TXN-1973,Neha Verma,,,Delhi,Home & Kitchen,150,,,COD,,,
+TXN-1974,Rahul Sharma,,,,Home & Kitchen,,1,,UPI,,,
+TXN-1975,,neha.v@gmail.com,28,Delhi,,1200.5,3,,COD,,,3601.5
+TXN-1976,Anit Kumar,neha.v@gmail.com,31,Kolkata,Books,1500,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1977,Rahul Sharma,priya.s@yahoo.com,22,Mumbai,Home & Kitchen,,1,4/20/2025,CREDIT CARD,4,2025,
+TXN-1978,Neha Verma,priya.s@yahoo.com,28,Mumbai,Electronics,1200.5,1,1/15/2025,UPI,1,2025,1200.5
+TXN-1979,,rahul@gmail.com,29,Kolkata,,150,,,UPI,,,
+TXN-1980,Anit Kumar,priya.s@yahoo.com,22,Mumbai,Home & Kitchen,350,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1981,Rahul Sharma,,,Kolkata,Home & Kitchen,1500,5,4/20/2025,UPI,4,2025,7500
+TXN-1982,Vikas Gupta,priya.s@yahoo.com,,Delhi,Clothing,,5,1/15/2025,UPI,1,2025,
+TXN-1983,Rahul Sharma,priya.s@yahoo.com,35,Delhi,Electronics,150,3,,COD,,,450
+TXN-1985,Rahul Sharma,priya.s@yahoo.com,,Mumbai,Electronics,,,3/10/2025,CREDIT CARD,3,2025,
+TXN-1986,Rahul Sharma,neha.v@gmail.com,,Delhi,Electronics,1200.5,,1/15/2025,,1,2025,
+TXN-1987,Rahul Sharma,rahul@gmail.com,,Kolkata,Electronics,150,3,1/15/2025,COD,1,2025,450
+TXN-1988,Anit Kumar,priya.s@yahoo.com,,Delhi,Electronics,,5,,UPI,,,
+TXN-1989,,neha.v@gmail.com,,Kolkata,Home & Kitchen,1500,2,3/10/2025,CREDIT CARD,3,2025,3000
+TXN-1990,Vikas Gupta,,29,Bengaluru,Home & Kitchen,1200.5,3,,UPI,,,3601.5
+TXN-1991,Rahul Sharma,,,Delhi,Electronics,1500,2,,COD,,,3000
+TXN-1992,,,,Kolkata,Books,150,2,1/15/2025,COD,1,2025,300
+TXN-1993,Priya Singh,,28,Bengaluru,Books,,3,3/10/2025,,3,2025,
+TXN-1994,Rahul Sharma,,,Kolkata,Electronics,350,3,3/10/2025,COD,3,2025,1050
+TXN-1995,Priya Singh,neha.v@gmail.com,,Mumbai,,,,2/15/2025,CREDIT CARD,2,2025,
+TXN-1997,Neha Verma,neha.v@gmail.com,35,Bengaluru,,,,,COD,,,
+TXN-1998,,neha.v@gmail.com,,,Books,150,,4/20/2025,UPI,4,2025,
+TXN-1999,Anit Kumar,,,Kolkata,Books,1200.5,5,1/15/2025,UPI,1,2025,6002.5
